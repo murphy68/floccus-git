@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1538: for Floccus bookmark sync browser extension -->
+<!--- highestId :1542: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1554,6 +1554,9 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=809YCHxt2kw" id="572">
       <title>My System is Slow, Now What? - YouTube</title>
+    </bookmark>
+    <bookmark href="edge://privatebrowsing/" id="1539">
+      <title>Neuer privater Tab</title>
     </bookmark>
   </folder>
   <folder id="239">
@@ -4109,6 +4112,9 @@
   <bookmark href="https://separator.floccus.org/vertical.html?id=150777" id="1167">
     <title></title>
   </bookmark>
+  <bookmark href="https://www.bankaustria.at/index.jsp" id="1540">
+    <title>UniCredit Bank Austria - Wir erledigen Ihre Bankgeschäfte</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>Other Bookmarks</title>
@@ -4278,6 +4284,12 @@
     </bookmark>
     <bookmark href="https://drata.com/" id="1524">
       <title>Automated SOC 2, HIPAA, GDPR, Risk Management, &amp; More | Drata | Drata</title>
+    </bookmark>
+    <bookmark href="moz-extension://5eb0f992-b28f-4d11-b835-4543ee31bae7/tabPage.html" id="1541">
+      <title>Manage My Tabs</title>
+    </bookmark>
+    <bookmark href="moz-extension://5eb0f992-b28f-4d11-b835-4543ee31bae7/tabPage.html" id="1542">
+      <title>Manage My Tabs</title>
     </bookmark>
   </folder>
   <folder id="1427">
