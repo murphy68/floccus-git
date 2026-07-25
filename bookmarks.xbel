@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1425: for Floccus bookmark sync browser extension -->
+<!--- highestId :1538: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -4112,6 +4112,339 @@
 </folder>
 <folder id="3">
   <title>Other Bookmarks</title>
+  <folder id="1426">
+    <title>[xbs] Menu</title>
+    <folder id="1429">
+      <title>Mozilla Firefox</title>
+      <bookmark href="https://support.mozilla.org/products/firefox" id="1450">
+        <title>Hilfe erhalten</title>
+      </bookmark>
+      <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1451">
+        <title>Firefox anpassen</title>
+      </bookmark>
+      <bookmark href="https://www.mozilla.org/contribute/" id="1452">
+        <title>Mitmachen</title>
+      </bookmark>
+      <bookmark href="https://www.mozilla.org/about/" id="1453">
+        <title>Über uns</title>
+      </bookmark>
+      <bookmark href="https://support.mozilla.org/products/firefox" id="1454">
+        <title>Get Help</title>
+      </bookmark>
+      <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1455">
+        <title>Customize Firefox</title>
+      </bookmark>
+      <bookmark href="https://www.mozilla.org/contribute/" id="1456">
+        <title>Get Involved</title>
+      </bookmark>
+      <bookmark href="https://www.mozilla.org/about/" id="1457">
+        <title>About Us</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://tasks.office.com/vmcon.at/de-AT/Home/Planner/" id="1430">
+      <title>Hub – Planner</title>
+    </bookmark>
+    <bookmark href="https://app.dsgvoapp.at/Home/Dashboard_SGet_S94871?selectedNode=52870#!" id="1431">
+      <title>DSGVO APP</title>
+    </bookmark>
+    <bookmark href="https://create.powerapps.com/studio/" id="1432">
+      <title>Firmen auf _MeineBerater Forms - Power Apps</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/de-de/powerapps/guidance/planning/example-expense-reporting" id="1433">
+      <title>Beispiel für die Planung eines Power Apps-Projekts - Power Apps | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://app.loupe.link/compliance" id="1434">
+      <title>.LOUPE - Startseite</title>
+    </bookmark>
+    <bookmark href="https://vonm.sharepoint.com/MeineBerater/Lists/Ansprechpartner/AllItems.aspx" id="1435">
+      <title>_MeineBerater - Ansprechpartner - Alle Elemente</title>
+    </bookmark>
+    <bookmark href="https://akademie.meineberater.at/campus/report/progress/index.php?course=23" id="1436">
+      <title>Aktivitätsabschluss</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/products/firefox" id="1437">
+      <title>Hilfe erhalten</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1438">
+      <title>Firefox anpassen</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/de/contribute/" id="1458">
+      <title>Machen Sie mit</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/de/about/" id="1459">
+      <title>Über uns</title>
+    </bookmark>
+    <bookmark href="moz-extension://5eb0f992-b28f-4d11-b835-4543ee31bae7/tabPage.html" id="1460">
+      <title>Manage My Tabs</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/products/firefox" id="1461">
+      <title>Hilfe und Anleitungen</title>
+    </bookmark>
+    <bookmark href="https://www.openstreetmap.org/search?query=wien%20steingasse#map=15/48.1830/16.3905" id="1462">
+      <title>wien steingasse | OpenStreetMap</title>
+    </bookmark>
+    <bookmark href="https://akademie.meineberater.at/campus/" id="1463">
+      <title>MeineBerater Akademie</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=T-LG-WVXEuM" id="1464">
+      <title>How to DISPLAY and EDIT the site FOOTER in the Boost theme using CSS for MOODLE 4.0 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.wko.at/it-sicherheit/7-tipps-fuer-mehr-cybersicherheit-im-unternehmen" id="1465">
+      <title>7 Tipps für mehr Cybersicherheit im Unternehmen - WKO</title>
+    </bookmark>
+    <bookmark href="http://business.also.cloud/b/mZankBOauubn6xOaUVqU" id="1466">
+      <title>NCE</title>
+    </bookmark>
+    <bookmark href="https://drata.com/" id="1477">
+      <title>Automated SOC 2, HIPAA, GDPR, Risk Management, &amp; More | Drata | Drata</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/products/firefox" id="1478">
+      <title>Hilfe erhalten</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1479">
+      <title>Firefox anpassen</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/contribute/" id="1480">
+      <title>Mitmachen</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/about/" id="1481">
+      <title>Über uns</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/products/firefox" id="1482">
+      <title>Get Help</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1483">
+      <title>Customize Firefox</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/contribute/" id="1484">
+      <title>Get Involved</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/about/" id="1485">
+      <title>About Us</title>
+    </bookmark>
+    <bookmark href="https://tasks.office.com/vmcon.at/de-AT/Home/Planner/" id="1496">
+      <title>Hub – Planner</title>
+    </bookmark>
+    <bookmark href="https://app.dsgvoapp.at/Home/Dashboard_SGet_S94871?selectedNode=52870#!" id="1497">
+      <title>DSGVO APP</title>
+    </bookmark>
+    <bookmark href="https://create.powerapps.com/studio/" id="1498">
+      <title>Firmen auf _MeineBerater Forms - Power Apps</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/de-de/powerapps/guidance/planning/example-expense-reporting" id="1499">
+      <title>Beispiel für die Planung eines Power Apps-Projekts - Power Apps | Microsoft Docs</title>
+    </bookmark>
+    <bookmark href="https://app.loupe.link/compliance" id="1500">
+      <title>.LOUPE - Startseite</title>
+    </bookmark>
+    <bookmark href="https://vonm.sharepoint.com/MeineBerater/Lists/Ansprechpartner/AllItems.aspx" id="1501">
+      <title>_MeineBerater - Ansprechpartner - Alle Elemente</title>
+    </bookmark>
+    <bookmark href="https://akademie.meineberater.at/campus/report/progress/index.php?course=23" id="1502">
+      <title>Aktivitätsabschluss</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/products/firefox" id="1503">
+      <title>Hilfe erhalten</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize" id="1504">
+      <title>Firefox anpassen</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/de/contribute/" id="1515">
+      <title>Machen Sie mit</title>
+    </bookmark>
+    <bookmark href="https://www.mozilla.org/de/about/" id="1516">
+      <title>Über uns</title>
+    </bookmark>
+    <bookmark href="moz-extension://5eb0f992-b28f-4d11-b835-4543ee31bae7/tabPage.html" id="1517">
+      <title>Manage My Tabs</title>
+    </bookmark>
+    <bookmark href="https://support.mozilla.org/de/products/firefox" id="1518">
+      <title>Hilfe und Anleitungen</title>
+    </bookmark>
+    <bookmark href="https://www.openstreetmap.org/search?query=wien%20steingasse#map=15/48.1830/16.3905" id="1519">
+      <title>wien steingasse | OpenStreetMap</title>
+    </bookmark>
+    <bookmark href="https://akademie.meineberater.at/campus/" id="1520">
+      <title>MeineBerater Akademie</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=T-LG-WVXEuM" id="1521">
+      <title>How to DISPLAY and EDIT the site FOOTER in the Boost theme using CSS for MOODLE 4.0 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.wko.at/it-sicherheit/7-tipps-fuer-mehr-cybersicherheit-im-unternehmen" id="1522">
+      <title>7 Tipps für mehr Cybersicherheit im Unternehmen - WKO</title>
+    </bookmark>
+    <bookmark href="http://business.also.cloud/b/mZankBOauubn6xOaUVqU" id="1523">
+      <title>NCE</title>
+    </bookmark>
+    <bookmark href="https://drata.com/" id="1524">
+      <title>Automated SOC 2, HIPAA, GDPR, Risk Management, &amp; More | Drata | Drata</title>
+    </bookmark>
+  </folder>
+  <folder id="1427">
+    <title>[xbs] Mobile</title>
+    <bookmark href="https://internet.cunard.com/cun/connected.aspx" id="1439">
+      <title>Internet Access</title>
+    </bookmark>
+    <bookmark href="https://myvoyage.cunard.com/landing" id="1440">
+      <title>My Voyage</title>
+    </bookmark>
+    <bookmark href="https://www.meteo.fvg.it/home.php?ln=-de" id="1441">
+      <title>Arpa FVG - Osservatorio meteorologico regionale del Friuli Venezia Giulia</title>
+    </bookmark>
+    <bookmark href="https://internet.cunard.com/cun/homepage.aspx" id="1442">
+      <title>Internet Access</title>
+    </bookmark>
+    <bookmark href="http://internet.cunard.com/" id="1443">
+      <title>Es besteht anscheinend keine Verbindung zum Internet.</title>
+    </bookmark>
+    <bookmark href="https://futurezone.at/produkte/fliegendes-supercar-sportwagen-china-flugauto-xpeng-aeroht-e-drohne/402651743" id="1444">
+      <title>Fliegende Supercars: Chinesische Firma zeigt kuriose Autos</title>
+    </bookmark>
+    <bookmark href="http://192.168.81.1/index.html#home" id="1445">
+      <title>5G Mobile Hotspot 81</title>
+    </bookmark>
+    <bookmark href="http://192.168.93.1/index.html#device_info" id="1446">
+      <title>5G Mobile Hotspot 93</title>
+    </bookmark>
+    <bookmark href="https://winfuture.de/" id="1447">
+      <title>WinFuture.de - Die ganze Welt der IT</title>
+    </bookmark>
+    <bookmark href="https://futurezone.at/" id="1448">
+      <title>futurezone.at</title>
+    </bookmark>
+    <bookmark href="https://www.google.at/" id="1467">
+      <title>Google</title>
+    </bookmark>
+    <bookmark href="https://www.heise.de/select/ct" id="1468">
+      <title>c&apos;t Übersicht | Heise Magazine</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/microsoft-aktie" id="1469">
+      <title>MICROSOFT AKTIE | Aktienkurs | Kurs | (870747,MSFT,US5949181045)</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/apple-aktie" id="1470">
+      <title>APPLE AKTIE | Aktienkurs | Kurs | (865985,AAPL,US0378331005)</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/amazon-aktie" id="1471">
+      <title>AMAZON AKTIE | Aktienkurs | Kurs | (906866,AMZN,US0231351067)</title>
+    </bookmark>
+    <bookmark href="https://www.meteoblue.com/de/wetter/woche/graz_%c3%96sterreich_2778067" id="1472">
+      <title>Wetter in Graz - meteoblue</title>
+    </bookmark>
+    <bookmark href="https://www.meteoblue.com/de/wetter/woche/izola_slowenien_3199017" id="1473">
+      <title>Wetter in Izola - meteoblue</title>
+    </bookmark>
+    <bookmark href="https://www.whatsupcams.com/sl/webcams/slovenija-sl/obalno-kraska/izola-sl/izola-v-zivo-hoteli-belvedere/" id="1474">
+      <title>Izola v živo - enkraten pogled s hotelov Belvedere - WhatsUpCams - Kamere v živo</title>
+    </bookmark>
+    <bookmark href="https://www.tide-forecast.com/locations/Izola/tides/latest" id="1475">
+      <title>Tide Times and Tide Chart for Izola</title>
+    </bookmark>
+    <bookmark href="https://wassertemperatur.site/stadt/meerestemperatur-in-slowenien/izola-1433" id="1476">
+      <title>Wassertemperatur in Izola, Slowenien</title>
+    </bookmark>
+    <bookmark href="https://www.bittitan.com/pricing/" id="1486">
+      <title>Pricing</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.it/sommer/grado-und-aquileia/webcams/c16169/" id="1487">
+      <title>bergfex - Webcam Grado - Grand Hotel Astoria: Webcam Grado und Aquileia - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c16296/" id="1488">
+      <title>bergfex - Webcam Piran - Punta und Mandrač: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c11956/" id="1489">
+      <title>bergfex - Webcam Punta Piran: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c11957/" id="1490">
+      <title>bergfex - Webcam Piran - Tartini Plaza: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.whatsupcams.com/en/webcams/slovenia/coastal-karst/izola/izola-webcam-belvedere-hotels/" id="1491">
+      <title>Izola webcam - Amazing view from Belvedere hotels - WhatsUpCams - LIVE streaming</title>
+    </bookmark>
+    <bookmark href="https://melia.revointouch.works/app/order" id="1492">
+      <title>RETAMA LOBBY</title>
+    </bookmark>
+    <bookmark href="https://internet.cunard.com/cun/connected.aspx" id="1493">
+      <title>Internet Access</title>
+    </bookmark>
+    <bookmark href="https://myvoyage.cunard.com/landing" id="1494">
+      <title>My Voyage</title>
+    </bookmark>
+    <bookmark href="https://www.meteo.fvg.it/home.php?ln=-de" id="1495">
+      <title>Arpa FVG - Osservatorio meteorologico regionale del Friuli Venezia Giulia</title>
+    </bookmark>
+    <bookmark href="https://internet.cunard.com/cun/homepage.aspx" id="1505">
+      <title>Internet Access</title>
+    </bookmark>
+    <bookmark href="http://internet.cunard.com/" id="1506">
+      <title>Es besteht anscheinend keine Verbindung zum Internet.</title>
+    </bookmark>
+    <bookmark href="https://futurezone.at/produkte/fliegendes-supercar-sportwagen-china-flugauto-xpeng-aeroht-e-drohne/402651743" id="1507">
+      <title>Fliegende Supercars: Chinesische Firma zeigt kuriose Autos</title>
+    </bookmark>
+    <bookmark href="http://192.168.81.1/index.html#home" id="1508">
+      <title>5G Mobile Hotspot 81</title>
+    </bookmark>
+    <bookmark href="http://192.168.93.1/index.html#device_info" id="1509">
+      <title>5G Mobile Hotspot 93</title>
+    </bookmark>
+    <bookmark href="https://winfuture.de/" id="1510">
+      <title>WinFuture.de - Die ganze Welt der IT</title>
+    </bookmark>
+    <bookmark href="https://futurezone.at/" id="1511">
+      <title>futurezone.at</title>
+    </bookmark>
+    <bookmark href="https://www.google.at/" id="1512">
+      <title>Google</title>
+    </bookmark>
+    <bookmark href="https://www.heise.de/select/ct" id="1513">
+      <title>c&apos;t Übersicht | Heise Magazine</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/microsoft-aktie" id="1514">
+      <title>MICROSOFT AKTIE | Aktienkurs | Kurs | (870747,MSFT,US5949181045)</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/apple-aktie" id="1525">
+      <title>APPLE AKTIE | Aktienkurs | Kurs | (865985,AAPL,US0378331005)</title>
+    </bookmark>
+    <bookmark href="https://www.finanzen.net/aktien/amazon-aktie" id="1526">
+      <title>AMAZON AKTIE | Aktienkurs | Kurs | (906866,AMZN,US0231351067)</title>
+    </bookmark>
+    <bookmark href="https://www.meteoblue.com/de/wetter/woche/graz_%c3%96sterreich_2778067" id="1527">
+      <title>Wetter in Graz - meteoblue</title>
+    </bookmark>
+    <bookmark href="https://www.meteoblue.com/de/wetter/woche/izola_slowenien_3199017" id="1528">
+      <title>Wetter in Izola - meteoblue</title>
+    </bookmark>
+    <bookmark href="https://www.whatsupcams.com/sl/webcams/slovenija-sl/obalno-kraska/izola-sl/izola-v-zivo-hoteli-belvedere/" id="1529">
+      <title>Izola v živo - enkraten pogled s hotelov Belvedere - WhatsUpCams - Kamere v živo</title>
+    </bookmark>
+    <bookmark href="https://www.tide-forecast.com/locations/Izola/tides/latest" id="1530">
+      <title>Tide Times and Tide Chart for Izola</title>
+    </bookmark>
+    <bookmark href="https://wassertemperatur.site/stadt/meerestemperatur-in-slowenien/izola-1433" id="1531">
+      <title>Wassertemperatur in Izola, Slowenien</title>
+    </bookmark>
+    <bookmark href="https://www.bittitan.com/pricing/" id="1532">
+      <title>Pricing</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.it/sommer/grado-und-aquileia/webcams/c16169/" id="1533">
+      <title>bergfex - Webcam Grado - Grand Hotel Astoria: Webcam Grado und Aquileia - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c16296/" id="1534">
+      <title>bergfex - Webcam Piran - Punta und Mandrač: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c11956/" id="1535">
+      <title>bergfex - Webcam Punta Piran: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.bergfex.at/sommer/piran/webcams/c11957/" id="1536">
+      <title>bergfex - Webcam Piran - Tartini Plaza: Webcam Piran - Cam</title>
+    </bookmark>
+    <bookmark href="https://www.whatsupcams.com/en/webcams/slovenia/coastal-karst/izola/izola-webcam-belvedere-hotels/" id="1537">
+      <title>Izola webcam - Amazing view from Belvedere hotels - WhatsUpCams - LIVE streaming</title>
+    </bookmark>
+    <bookmark href="https://melia.revointouch.works/app/order" id="1538">
+      <title>RETAMA LOBBY</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="4">
   <title>Mobile Bookmarks</title>
@@ -4277,5 +4610,11 @@
   <bookmark href="https://melia.revointouch.works/app/order" id="674">
     <title>RETAMA LOBBY</title>
   </bookmark>
+</folder>
+<folder id="1428">
+  <title>Arbeitsbereiche</title>
+  <folder id="1449">
+    <title>evm Privat</title>
+  </folder>
 </folder>
 </xbel>
