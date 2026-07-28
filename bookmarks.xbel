@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1542: for Floccus bookmark sync browser extension -->
+<!--- highestId :1543: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -2348,6 +2348,9 @@
       <title>Weiterbildung für Finanzdienstleister, Versicherungsagenten und Versicherungsmakler</title>
     </bookmark>
   </folder>
+  <bookmark href="https://vmcon.odoo.com/odoo" id="1543">
+    <title>Home</title>
+  </bookmark>
   <folder id="675">
     <title>Behörden</title>
     <bookmark href="https://www.usp.gv.at/Portal.Node/usp/secure" id="684">
