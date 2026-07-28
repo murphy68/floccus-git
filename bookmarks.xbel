@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1544: for Floccus bookmark sync browser extension -->
+<!--- highestId :1545: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -987,6 +987,9 @@
     </folder>
     <folder id="296">
       <title>Azure/Entra</title>
+      <bookmark href="https://portal.azure.com/#@vmcon.at/resource/subscriptions/1ebff1fc-ee2c-496d-a4ed-950924d1c324/resourceGroups/rg-teams-gruppen/providers/Microsoft.Automation/automationAccounts/AA-TeamsSync/overview" id="1545">
+        <title>AA-TeamsSync - Microsoft Azure</title>
+      </bookmark>
       <bookmark href="https://config.office.com/officeSettings" id="394">
         <title>Start - Microsoft 365 Apps Admin Center</title>
       </bookmark>
