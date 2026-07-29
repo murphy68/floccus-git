@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1552: for Floccus bookmark sync browser extension -->
+<!--- highestId :1553: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1522,7 +1522,7 @@
     <bookmark href="http://statistik.meineberater.at/" id="303">
       <title>MB Aufruf-Statistik</title>
     </bookmark>
-    <bookmark href="about:privatebrowsing" id="304">
+    <bookmark href="edge://privatebrowsing/" id="1553">
       <title>Neuer privater Tab</title>
     </bookmark>
     <bookmark href="https://www.meineberater.at/wp-admin/index.php" id="305">
@@ -2152,50 +2152,98 @@
     <bookmark href="https://portal.eu.fortigate.forticloud.com/ui/administration/forticloud-subscriptions" id="1051">
       <title>FortiGate Cloud</title>
     </bookmark>
+    <bookmark href="https://www.magenta.at/mein-magenta-kabel/invoices" id="1205">
+      <title>SFG03 Rechnungen 67,00 +</title>
+    </bookmark>
     <bookmark href="https://partnerportal.fortinet.com/English/" id="1052">
       <title>Fortinet Partner Program | Home</title>
+    </bookmark>
+    <bookmark href="https://www.magenta.at/mein-magenta-kabel-login/" id="1206">
+      <title>SFG03 Mein-Magenta-Kabel-Login 60,62€</title>
     </bookmark>
     <bookmark href="https://community.gdd.de/dashboard" id="1053">
       <title>GDD e.V. Community</title>
     </bookmark>
+    <bookmark href="https://www.microsoft.com/de-de/store/b/certified-refurbished-products?OCID=ema_7432997_B_SKU_Promo_SL2&amp;WT.mc_id=PromoEmail_7432997_Toolkit_de_DE_Toolkit_B_SKU_Promo_SL2_de_DE_04-08-2021_TextBanner" id="1226">
+      <title>Microsoft Refurbished</title>
+    </bookmark>
     <bookmark href="https://kundenportal.generali.at/iss/gui/kundenportal/login/login.seam?conversationId=1596999" id="1086">
       <title>Generali Kundenportal</title>
+    </bookmark>
+    <bookmark href="https://partner.microsoft.com/de-at/marketing/austria-partner-hub?WT.mc_id=AID3017303_EML_7350719" id="1227">
+      <title>Partner Hub Microsoft Österreich - Ein Ort für alle lokalen Inhalte</title>
     </bookmark>
     <bookmark href="https://www.google.com/search?q=MeineBerater&amp;stick=H4sIAAAAAAAA_-NgU1I1qDAxN0s1SUq2TDI0MzZJszS2MqgwMktOSzVPSU62ME5NsTA3W8TK45uamZfqlFqUWJJaBADnsR9hOAAAAA&amp;hl=de&amp;mat=CbqHn_m6jEqWElYBTVDHnvcYAnXw1fMJhmrA9w9-qX2jN7UfK7OdBJqHvE4zYO5WkEI0uAgv72bEynk40vQJjcg-SAtGuS1KRxaC46wqwCcuGiqIrJl7oZE7FJGfsBlGqxoIBwZD3KhW9dg&amp;authuser=0&amp;ved=2ahUKEwjtnqDoyfuQAxUg9bsIHSIIJwcQ-MgIegQIMBAe#mpd=~10829622988645566394/overflow/profilesettings/managers" id="1087">
       <title>Google Personen Zugriff VMCON Seite</title>
     </bookmark>
+    <bookmark href="https://partner.microsoft.com/dashboard/v2/benefits/marketing" id="1228">
+      <title>MS Partner Benefits</title>
+    </bookmark>
     <bookmark href="https://customer.easypark.net/" id="1088">
       <title>Handyparken mit EasyPark - Anmeldung</title>
+    </bookmark>
+    <bookmark href="https://partner.microsoft.com/de-de/dashboard/membership/offers" id="1229">
+      <title>MS Action Pack Verlängerung</title>
     </bookmark>
     <bookmark href="https://fachbuch.hanser-ebooks.de/index.cfm?fuseaction=konto&amp;actkonto=download" id="1089">
       <title>Hanser E-Books</title>
     </bookmark>
+    <bookmark href="https://account.microsoft.com/billing/orders" id="1235">
+      <title>Microsoft-Konto | Bestellverlauf</title>
+    </bookmark>
     <bookmark href="https://www.heise.de/select" id="1090">
       <title>Heise Magazine</title>
+    </bookmark>
+    <bookmark href="http://mr-label.com/plabel/excel_form_en.php" id="1236">
+      <title>Mr-Label Online Print Tool</title>
     </bookmark>
     <bookmark href="https://www.hornetsecurity.com/de/partner/partner-registrierung/?country=Austria" id="1101">
       <title>Partner Registrierung - Hornetsecurity – Next-Gen Microsoft 365 Security</title>
     </bookmark>
+    <bookmark href="https://shop.minhorst.com/account" id="1237">
+      <title>Minhorst Verlag | Kundenkonto</title>
+    </bookmark>
     <bookmark href="https://www.hostprofis.com/web/login" id="1102">
       <title>HostProfis ISP Telekom GmbH</title>
+    </bookmark>
+    <bookmark href="https://shop.notebookkontor.de/" id="1238">
+      <title>Notebookkontor</title>
     </bookmark>
     <bookmark href="https://vmcon.3cx-hostprofis.at:6001/webclient/#/login" id="1103">
       <title>Hostprofis 3CX</title>
     </bookmark>
+    <bookmark href="https://www.skool.com/settings?t=payment-history" id="1239">
+      <title>n8n-schoolz Rechnungen</title>
+    </bookmark>
     <bookmark href="https://support.hp.com/at-de/help/repair?jumpid=in_r11839_at/de/repr/hpsa" id="1104">
       <title>HP Drucker- und Notebook-Reparatur | HP® Support</title>
+    </bookmark>
+    <bookmark href="https://web.nuki.io/#/pages/smartlock/439080693" id="1260">
+      <title>Nuki Web</title>
     </bookmark>
     <bookmark href="https://sslsites.de/meineberater.at/statistik/" id="1105">
       <title>Index of /statistik</title>
     </bookmark>
+    <bookmark href="https://mein.usp.gv.at/" id="1261">
+      <title>Mein USP</title>
+    </bookmark>
     <bookmark href="https://www.it-logic.de/bericht/6F3WJtxAm2CvzU/FmyARjzBPnMutmU.html" id="1147">
       <title>IT-Logic - WWWSCHUTZ</title>
+    </bookmark>
+    <bookmark href="https://platform.openai.com/docs/overview" id="1262">
+      <title>Overview - OpenAI API</title>
     </bookmark>
     <bookmark href="https://kaiserdigital.sharepoint.com/sites/KDOperativ/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FKDOperativ%2FShared%20Documents%2FKundenaustausch%2FVMCON&amp;p=true&amp;ga=1" id="1148">
       <title>Kaiser Digital - SP mit uns</title>
     </bookmark>
+    <bookmark href="https://platform.openai.com/account/billing" id="1263">
+      <title>https://platform.openai.com/account/billing</title>
+    </bookmark>
     <bookmark href="https://business.karriere.at/dashboard" id="1149">
       <title>Karriere.at business</title>
+    </bookmark>
+    <bookmark href="https://platform.openai.com/account/billing/overview" id="1266">
+      <title>OpenAI NUR API Rechnungen</title>
     </bookmark>
     <folder id="1150">
       <title>knowbe4</title>
@@ -2218,131 +2266,83 @@
         <title>KnowBe4 - Wissensdatenbank</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.lenovo.com/at/de/atsmbpro/gatekeeper/showpage?toggle=GatekeeperSMB" id="1151">
-      <title>Lenovo AT</title>
-    </bookmark>
-    <bookmark href="https://app.link.com/wallet" id="1156">
-      <title>Link</title>
-    </bookmark>
-    <bookmark href="https://www.lindedigital.at/#overviewstack" id="1157">
-      <title>Lindedigital</title>
-    </bookmark>
-    <bookmark href="https://www.linkedin.com/payments/purchasehistory?trk=purchase_history_from_settings" id="1158">
-      <title>LinkedIn Rechnungen</title>
-    </bookmark>
-    <bookmark href="https://www.linkedin.com/manage/purchases-payments/purchases?account=74587244" id="1159">
-      <title>LinkedIn Dauerrechnungen (Learn)</title>
-    </bookmark>
-    <bookmark href="https://app.loupe.link/" id="1166">
-      <title>.LOUPE</title>
-    </bookmark>
-    <bookmark href="https://app.loupe.link/whistleblowing/6471fe9a-7e78-4155-83e9-9784e76bb774" id="1194">
-      <title>.LOUPE - Whistleblower Portal</title>
-    </bookmark>
-    <bookmark href="https://loupeat.sharepoint.com/:x:/r/sites/loupe-dokumente/_layouts/15/Doc.aspx?sourcedoc=%7Bb091712f-56e8-4f01-81ba-643295890128%7D&amp;action=default&amp;wdLOR=c73EE5F15-F803-492A-B239-59B102B39EBB&amp;ct=1644923175073&amp;or=Outlook-Body&amp;cid=4B475DF8-A59A-4ABD-8000-4A7835B985F0" id="1195">
-      <title>Loupe Excel Projekte</title>
-    </bookmark>
-    <bookmark href="https://go.lywand.com/" id="1196">
-      <title>lywand</title>
-    </bookmark>
-    <bookmark href="https://mein.magenta.at/myTNT/start.page" id="1197">
-      <title>Magenta - My Magenta (Kopfnummer)</title>
-    </bookmark>
-    <bookmark href="https://tgate.magenta.at/oauth/login" id="1202">
-      <title>Magenta - My Business Station</title>
-    </bookmark>
-    <bookmark href="https://mybiz.magenta.at/" id="1203">
-      <title>Magenta - Magenta Business Selfservice Portal - Start - VPN-ID 46123</title>
-    </bookmark>
-    <bookmark href="https://rechnung.magenta.at/vpn/" id="1204">
-      <title>Magenta Business VPN Firmenrechnung (Handyapp!)</title>
-    </bookmark>
-    <bookmark href="https://www.magenta.at/mein-magenta-kabel/invoices" id="1205">
-      <title>SFG03 Rechnungen 67,00 +</title>
-    </bookmark>
-    <bookmark href="https://www.magenta.at/mein-magenta-kabel-login/" id="1206">
-      <title>SFG03 Mein-Magenta-Kabel-Login 60,62€</title>
-    </bookmark>
-    <bookmark href="https://www.microsoft.com/de-de/store/b/certified-refurbished-products?OCID=ema_7432997_B_SKU_Promo_SL2&amp;WT.mc_id=PromoEmail_7432997_Toolkit_de_DE_Toolkit_B_SKU_Promo_SL2_de_DE_04-08-2021_TextBanner" id="1226">
-      <title>Microsoft Refurbished</title>
-    </bookmark>
-    <bookmark href="https://partner.microsoft.com/de-at/marketing/austria-partner-hub?WT.mc_id=AID3017303_EML_7350719" id="1227">
-      <title>Partner Hub Microsoft Österreich - Ein Ort für alle lokalen Inhalte</title>
-    </bookmark>
-    <bookmark href="https://partner.microsoft.com/dashboard/v2/benefits/marketing" id="1228">
-      <title>MS Partner Benefits</title>
-    </bookmark>
-    <bookmark href="https://partner.microsoft.com/de-de/dashboard/membership/offers" id="1229">
-      <title>MS Action Pack Verlängerung</title>
-    </bookmark>
-    <bookmark href="https://account.microsoft.com/billing/orders" id="1235">
-      <title>Microsoft-Konto | Bestellverlauf</title>
-    </bookmark>
-    <bookmark href="http://mr-label.com/plabel/excel_form_en.php" id="1236">
-      <title>Mr-Label Online Print Tool</title>
-    </bookmark>
-    <bookmark href="https://shop.minhorst.com/account" id="1237">
-      <title>Minhorst Verlag | Kundenkonto</title>
-    </bookmark>
-    <bookmark href="https://shop.notebookkontor.de/" id="1238">
-      <title>Notebookkontor</title>
-    </bookmark>
-    <bookmark href="https://www.skool.com/settings?t=payment-history" id="1239">
-      <title>n8n-schoolz Rechnungen</title>
-    </bookmark>
-    <bookmark href="https://web.nuki.io/#/pages/smartlock/439080693" id="1260">
-      <title>Nuki Web</title>
-    </bookmark>
-    <bookmark href="https://mein.usp.gv.at/" id="1261">
-      <title>Mein USP</title>
-    </bookmark>
-    <bookmark href="https://platform.openai.com/docs/overview" id="1262">
-      <title>Overview - OpenAI API</title>
-    </bookmark>
-    <bookmark href="https://platform.openai.com/account/billing" id="1263">
-      <title>https://platform.openai.com/account/billing</title>
-    </bookmark>
-    <bookmark href="https://platform.openai.com/account/billing/overview" id="1266">
-      <title>OpenAI NUR API Rechnungen</title>
-    </bookmark>
     <bookmark href="https://platform.openai.com/settings/organization/usage" id="1267">
       <title>OpenAI API Usage</title>
+    </bookmark>
+    <bookmark href="https://www.lenovo.com/at/de/atsmbpro/gatekeeper/showpage?toggle=GatekeeperSMB" id="1151">
+      <title>Lenovo AT</title>
     </bookmark>
     <bookmark href="https://lens.poly.com/admin/accounts?tenantId=060aae42-455a-42ee-a47f-c23e1c247829" id="1268">
       <title>Poly Lens</title>
     </bookmark>
+    <bookmark href="https://app.link.com/wallet" id="1156">
+      <title>Link</title>
+    </bookmark>
     <bookmark href="https://kundenportal.porschebank.at/" id="1269">
       <title>Porsche Bank Kundenportal</title>
+    </bookmark>
+    <bookmark href="https://www.lindedigital.at/#overviewstack" id="1157">
+      <title>Lindedigital</title>
     </bookmark>
     <bookmark href="https://www.serverschmiede.com/" id="1270">
       <title>Serverschmiede: Server gebraucht &amp; günstig kaufen</title>
     </bookmark>
+    <bookmark href="https://www.linkedin.com/payments/purchasehistory?trk=purchase_history_from_settings" id="1158">
+      <title>LinkedIn Rechnungen</title>
+    </bookmark>
     <bookmark href="https://www.wienernetze.at/smartmeter" id="1271">
       <title>Smart Meter - Wiener Netze GmbH</title>
+    </bookmark>
+    <bookmark href="https://www.linkedin.com/manage/purchases-payments/purchases?account=74587244" id="1159">
+      <title>LinkedIn Dauerrechnungen (Learn)</title>
     </bookmark>
     <bookmark href="https://go.timetac.com/vmconog" id="1282">
       <title>TimeTac | von Maurnböck Erich</title>
     </bookmark>
+    <bookmark href="https://app.loupe.link/" id="1166">
+      <title>.LOUPE</title>
+    </bookmark>
     <bookmark href="https://itsm.tuev-media.de/xhtml/document.jsf?activeTab=default" id="1283">
       <title>TUEV Rheinland - IT-Servicemanagement</title>
+    </bookmark>
+    <bookmark href="https://app.loupe.link/whistleblowing/6471fe9a-7e78-4155-83e9-9784e76bb774" id="1194">
+      <title>.LOUPE - Whistleblower Portal</title>
     </bookmark>
     <bookmark href="https://www.universal.at/mein-konto/meine-rechnungen/#searchTerm=erechnung&amp;ImPromo=la,3,hk,Suche_Redirects,fl,erechnung?rl=1" id="1284">
       <title>Universal - Rechnungen</title>
     </bookmark>
+    <bookmark href="https://loupeat.sharepoint.com/:x:/r/sites/loupe-dokumente/_layouts/15/Doc.aspx?sourcedoc=%7Bb091712f-56e8-4f01-81ba-643295890128%7D&amp;action=default&amp;wdLOR=c73EE5F15-F803-492A-B239-59B102B39EBB&amp;ct=1644923175073&amp;or=Outlook-Body&amp;cid=4B475DF8-A59A-4ABD-8000-4A7835B985F0" id="1195">
+      <title>Loupe Excel Projekte</title>
+    </bookmark>
     <bookmark href="https://www.meinevbv.at/#/dashboard" id="1285">
       <title>Dashboard - VBV</title>
+    </bookmark>
+    <bookmark href="https://go.lywand.com/" id="1196">
+      <title>lywand</title>
     </bookmark>
     <bookmark href="https://vimeo.com/de/" id="1286">
       <title>Videos auf Vimeo</title>
     </bookmark>
+    <bookmark href="https://mein.magenta.at/myTNT/start.page" id="1197">
+      <title>Magenta - My Magenta (Kopfnummer)</title>
+    </bookmark>
     <bookmark href="https://billing-account.vimeo.com/resetPassword" id="1287">
       <title>Vimeo - Ecommerce Portal</title>
+    </bookmark>
+    <bookmark href="https://tgate.magenta.at/oauth/login" id="1202">
+      <title>Magenta - My Business Station</title>
     </bookmark>
     <bookmark href="https://www.vorest-ag.com/" id="1288">
       <title>VOREST AG</title>
     </bookmark>
+    <bookmark href="https://mybiz.magenta.at/" id="1203">
+      <title>Magenta - Magenta Business Selfservice Portal - Start - VPN-ID 46123</title>
+    </bookmark>
     <bookmark href="https://separator.floccus.org/?id=553086" id="1289">
       <title>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</title>
+    </bookmark>
+    <bookmark href="https://rechnung.magenta.at/vpn/" id="1204">
+      <title>Magenta Business VPN Firmenrechnung (Handyapp!)</title>
     </bookmark>
   </folder>
   <folder id="570">
@@ -2409,9 +2409,6 @@
     </bookmark>
     <folder id="748">
       <title>MS_SecCheck</title>
-      <bookmark href="https://portal.azure.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/RiskyUsers" id="785">
-        <title>Sicherheit - Microsoft Azure</title>
-      </bookmark>
       <bookmark href="https://security.microsoft.com/quarantine?viewid=Email&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="786">
         <title>Unter Quarantäne stellen – Microsoft Defender</title>
       </bookmark>
@@ -2423,6 +2420,9 @@
       </bookmark>
       <bookmark href="https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Overview" id="789">
         <title>Bedingter Zugriff - Microsoft Azure</title>
+      </bookmark>
+      <bookmark href="https://portal.azure.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/RiskyUsers" id="785">
+        <title>Sicherheit - Microsoft Azure</title>
       </bookmark>
     </folder>
     <bookmark href="https://windows.cloud.microsoft/#/devices" id="749">
@@ -2532,23 +2532,23 @@
       <bookmark href="https://compliance.microsoft.com/homepage" id="879">
         <title>Startseite – Microsoft Purview</title>
       </bookmark>
-      <bookmark href="https://compliance.microsoft.com/solutioncatalog" id="880">
-        <title>Lösungskatalog – Microsoft Purview</title>
-      </bookmark>
-      <bookmark href="https://security.microsoft.com/securescore?viewid=overview&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="881">
-        <title>Microsoft-Sicherheitsbewertung – Microsoft 365 Security</title>
-      </bookmark>
-      <bookmark href="https://security.microsoft.com/threatreview?tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="882">
-        <title>Überprüfen – Microsoft 365 Security</title>
-      </bookmark>
       <bookmark href="https://admin.exchange.microsoft.com/#/otherFeatures" id="883">
         <title>Sicherheit - weitere Features</title>
+      </bookmark>
+      <bookmark href="https://compliance.microsoft.com/solutioncatalog" id="880">
+        <title>Lösungskatalog – Microsoft Purview</title>
       </bookmark>
       <bookmark href="https://security.microsoft.com/realtimereports?rfr=scc_realtimereports&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="884">
         <title>Echtzeiterkennungen – Microsoft 365 Security</title>
       </bookmark>
+      <bookmark href="https://security.microsoft.com/securescore?viewid=overview&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="881">
+        <title>Microsoft-Sicherheitsbewertung – Microsoft 365 Security</title>
+      </bookmark>
       <bookmark href="https://security.microsoft.com/quarantine?viewid=Email&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="885">
         <title>Unter Quarantäne stellen – Microsoft 365 Security</title>
+      </bookmark>
+      <bookmark href="https://security.microsoft.com/threatreview?tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="882">
+        <title>Überprüfen – Microsoft 365 Security</title>
       </bookmark>
     </folder>
     <folder id="842">
@@ -3300,53 +3300,53 @@
       <bookmark href="https://www.cyber-regulierung.de/nis-2-umsetzung/" id="979">
         <title>NIS 2-Richtlinie in Europa: Umsetzung im Ländervergleich</title>
       </bookmark>
-      <bookmark href="https://www.dataguard.de/blog/die-nis2-richtlinie-was-jetzt-fuer-eu-unternehmen-wichtig-ist/" id="980">
-        <title>Die NIS2-Richtlinie: Checkliste herunterladen und Betroffenheit prüfen</title>
-      </bookmark>
-      <bookmark href="https://eur-lex.europa.eu/eli/dir/2022/2555/oj" id="981">
-        <title>EUR-Lex - 32022L2555 - DE - EUR-Lex</title>
-      </bookmark>
-      <bookmark href="https://www.link11.com/de/blog/it-sicherheit/weg-frei-fuer-nis2-warum-die-neue-richtlinie-ein-besserer-schutz-vor-hackerangriffen-ist/" id="1040">
-        <title>Weg frei für NIS2 – warum die neue Richtlinie ein besserer Schutz vor Hackerangriffen ist - Link 11 - Next Generation Cyber Security</title>
-      </bookmark>
-      <bookmark href="https://www.heise.de/news/Aus-fuer-anonyme-Domains-EU-Regeln-fuer-Cybersicherheit-treten-bald-in-Kraft-7444366.html" id="1041">
-        <title>EU-Regeln für Cybersicherheit bald in Kraft: Rund 20.000 Betriebe betroffen | heise online</title>
-      </bookmark>
-      <bookmark href="https://www.ebnerstolz.de/de/nis-2-0-direktive-431434.html" id="1042">
-        <title>NIS 2.0 Direktive - Update des IT-SiG 2.0 - Ebner Stolz</title>
-      </bookmark>
-      <bookmark href="https://eur-lex.europa.eu/eli/dir/2022/2555/oj#d1e3453-80-1" id="1043">
-        <title>EUR-Lex - 32022L2555 - DE - EUR-Lex</title>
-      </bookmark>
-      <bookmark href="https://www.bitkom.org/Bitkom/Publikationen/Regulierungsmapping-IT-Sicherheit" id="1044">
-        <title>Regulierungsmapping IT-Sicherheit | Leitfaden Publikation 2022 | Bitkom e.V.</title>
-      </bookmark>
-      <bookmark href="https://nis.energy-cert.at/" id="1045">
-        <title>nis-reports</title>
-      </bookmark>
       <bookmark href="https://nis.cert.at/" id="1046">
         <title>nis-reports</title>
+      </bookmark>
+      <bookmark href="https://www.dataguard.de/blog/die-nis2-richtlinie-was-jetzt-fuer-eu-unternehmen-wichtig-ist/" id="980">
+        <title>Die NIS2-Richtlinie: Checkliste herunterladen und Betroffenheit prüfen</title>
       </bookmark>
       <bookmark href="https://www.nis.gv.at/fragen-und-antworten/computer-notfallteams.html" id="1047">
         <title>Computer-Notfallteams (CSIRTs) im Sinne des NIS-Gesetzes - Anlaufstelle NISG</title>
       </bookmark>
+      <bookmark href="https://eur-lex.europa.eu/eli/dir/2022/2555/oj" id="981">
+        <title>EUR-Lex - 32022L2555 - DE - EUR-Lex</title>
+      </bookmark>
       <bookmark href="https://www.usd.de/nis-2-und-dora-warum-zwei-eu-rechtsvorschriften/" id="1048">
         <title>NIS-2 und DORA: Warum zwei EU-Rechtsvorschriften für Cybersicherheit? | more security. usd AG</title>
+      </bookmark>
+      <bookmark href="https://www.link11.com/de/blog/it-sicherheit/weg-frei-fuer-nis2-warum-die-neue-richtlinie-ein-besserer-schutz-vor-hackerangriffen-ist/" id="1040">
+        <title>Weg frei für NIS2 – warum die neue Richtlinie ein besserer Schutz vor Hackerangriffen ist - Link 11 - Next Generation Cyber Security</title>
       </bookmark>
       <bookmark href="https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=20010536" id="1049">
         <title>RIS - Netz- und Informationssystemsicherheitsgesetz - Bundesrecht konsolidiert, Fassung vom 28.11.2023</title>
       </bookmark>
+      <bookmark href="https://www.heise.de/news/Aus-fuer-anonyme-Domains-EU-Regeln-fuer-Cybersicherheit-treten-bald-in-Kraft-7444366.html" id="1041">
+        <title>EU-Regeln für Cybersicherheit bald in Kraft: Rund 20.000 Betriebe betroffen | heise online</title>
+      </bookmark>
       <bookmark href="https://futurezone.at/netzpolitik/tausende-unternehmen-eu-cybersecurity-hacker-angriff-richtlinie-nis-2-sicherheit/402810430" id="1097">
         <title>Warum sich Tausende Unternehmen auf NIS 2 vorbereiten sollten</title>
+      </bookmark>
+      <bookmark href="https://www.ebnerstolz.de/de/nis-2-0-direktive-431434.html" id="1042">
+        <title>NIS 2.0 Direktive - Update des IT-SiG 2.0 - Ebner Stolz</title>
       </bookmark>
       <bookmark href="https://360.lexisnexis.at/d/lexisbriefings/anwendungsbereich_nis_2_rl/h_80004_1557228884605534908_9e090ef324?origin=gs&amp;rlclick=graph%252Btitle&amp;searchid=null" id="1098">
         <title>Anwendungsbereich NIS-2-RL | Lexis 360</title>
       </bookmark>
+      <bookmark href="https://eur-lex.europa.eu/eli/dir/2022/2555/oj#d1e3453-80-1" id="1043">
+        <title>EUR-Lex - 32022L2555 - DE - EUR-Lex</title>
+      </bookmark>
       <bookmark href="https://advisera.com/de/artikel/berichtspflichten-nis2/?_hsmi=309895252" id="1099">
         <title>NIS2 Berichtspflichten: Meldung erheblicher Vorfälle</title>
       </bookmark>
+      <bookmark href="https://www.bitkom.org/Bitkom/Publikationen/Regulierungsmapping-IT-Sicherheit" id="1044">
+        <title>Regulierungsmapping IT-Sicherheit | Leitfaden Publikation 2022 | Bitkom e.V.</title>
+      </bookmark>
       <bookmark href="https://www.drivelock.com/de/lp-nis2-general" id="1100">
         <title>Nützliche Dokumente zur NIS2 - Richtlinie Umsetzung</title>
+      </bookmark>
+      <bookmark href="https://nis.energy-cert.at/" id="1045">
+        <title>nis-reports</title>
       </bookmark>
     </folder>
     <folder id="932">
@@ -3369,11 +3369,11 @@
       <bookmark href="https://www.bitkom.org/Bitkom/Publikationen/12-Points-to-navigate-the-Data-Act-Amendments" id="987">
         <title>12 Points to navigate the Data Act Amendments | Positionspapier Publikation 2023 | Bitkom e.V.</title>
       </bookmark>
-      <bookmark href="https://www.security-insider.de/was-ist-der-cybersecurity-act-a-1107725/" id="988">
-        <title>Was ist der Cybersecurity Act?</title>
-      </bookmark>
       <bookmark href="https://de.wikipedia.org/wiki/Cyberresilienz-Verordnung" id="989">
         <title>Cyberresilienz-Verordnung – Wikipedia</title>
+      </bookmark>
+      <bookmark href="https://www.security-insider.de/was-ist-der-cybersecurity-act-a-1107725/" id="988">
+        <title>Was ist der Cybersecurity Act?</title>
       </bookmark>
     </folder>
     <folder id="933">
