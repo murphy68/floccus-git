@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1545: for Floccus bookmark sync browser extension -->
+<!--- highestId :1546: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -2392,6 +2392,9 @@
   </folder>
   <folder id="729">
     <title>MS</title>
+    <bookmark href="https://support.microsoft.com/en-US/support/get-help/about-get-help" id="1546">
+      <title>About Get Help | Microsoft Support</title>
+    </bookmark>
     <bookmark href="https://m365.cloud.microsoft/apps" id="746">
       <title>Apps | M365 Copilot</title>
     </bookmark>
