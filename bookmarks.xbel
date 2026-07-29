@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1547: for Floccus bookmark sync browser extension -->
+<!--- highestId :1548: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -544,6 +544,9 @@
         <title>Steiermark - wetter.ORF.at</title>
       </bookmark>
     </folder>
+    <bookmark href="https://oem.sena.com/schuberth/" id="1548">
+      <title>SCHUBERTH OEM</title>
+    </bookmark>
     <bookmark href="https://www.1000ps.at/gebrauchte-motorraeder/marke/Ducati/modell/Ducati-Multistrada-1200-S" id="66">
       <title>Ducati Multistrada 1200 S gebraucht kaufen: 7 Angebote ab 6.500 € | 1000PS</title>
     </bookmark>
