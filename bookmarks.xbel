@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1548: for Floccus bookmark sync browser extension -->
+<!--- highestId :1552: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -4646,5 +4646,17 @@
   <folder id="1449">
     <title>evm Privat</title>
   </folder>
+</folder>
+<folder id="1549">
+  <title>Mobile Favoriten</title>
+  <folder id="1550">
+    <title>In Leseliste gespeichert</title>
+  </folder>
+  <bookmark href="https://emails.cunard.com/q/1tJprs4NoQnpAzzLtblc4iXy/wv" id="1551">
+    <title>emails.cunard.com/q/1tJprs4NoQnpAzzLtblc4iXy/wv</title>
+  </bookmark>
+  <bookmark href="https://internet.cunard.com/cun/login.aspx" id="1552">
+    <title>Internet Access</title>
+  </bookmark>
 </folder>
 </xbel>
