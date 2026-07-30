@@ -1187,21 +1187,6 @@
       </folder>
       <folder id="432">
         <title>Technisch</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-133" id="449">
-          <title>Benutzereinstellungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-96" id="450">
-          <title>Benachrichtigungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-130" id="451">
-          <title>Gäste</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-116" id="452">
-          <title>Aktivitätspläne</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-97" id="453">
-          <title>Nachrichten</title>
-        </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-99" id="454">
           <title>E-Mails</title>
         </bookmark>
@@ -1225,6 +1210,21 @@
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/crons" id="540">
           <title>Geplante Aktionen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-133" id="449">
+          <title>Benutzereinstellungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-96" id="450">
+          <title>Benachrichtigungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-130" id="451">
+          <title>Gäste</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-116" id="452">
+          <title>Aktivitätspläne</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-97" id="453">
+          <title>Nachrichten</title>
         </bookmark>
       </folder>
     </folder>
