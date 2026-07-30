@@ -1363,6 +1363,9 @@
     <bookmark href="edge://privatebrowsing/" id="1553">
       <title>Neuer privater Tab</title>
     </bookmark>
+    <bookmark href="edge://privatebrowsing/" id="1539">
+      <title>Neuer privater Tab</title>
+    </bookmark>
     <bookmark href="https://www.meineberater.at/wp-admin/index.php" id="305">
       <title>MB Dashboard</title>
     </bookmark>
@@ -1401,9 +1404,6 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=809YCHxt2kw" id="572">
       <title>My System is Slow, Now What? - YouTube</title>
-    </bookmark>
-    <bookmark href="edge://privatebrowsing/" id="1539">
-      <title>Neuer privater Tab</title>
     </bookmark>
   </folder>
   <folder id="239">
