@@ -1128,49 +1128,55 @@
       <bookmark href="https://vmcon.odoo.com/odoo" id="159">
         <title>Odoo Echtinstanz</title>
       </bookmark>
+      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
+        <title>Pipeline (Timetac)</title>
+      </bookmark>
+      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
+        <title>Monitor (Timetac)</title>
+      </bookmark>
       <folder id="1556">
         <title>Kontakte</title>
         <bookmark href="https://vmcon.odoo.com/odoo/action-58" id="160">
-          <title>Kontakte - Stichwörter</title>
+          <title>Stichwörter</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-59" id="161">
-          <title>Kontakte - Branchen</title>
+          <title>Branchen</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-60" id="162">
-          <title>Kontakte - Banken</title>
+          <title>Banken</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-61" id="163">
-          <title>Kontakte - Bankkonten</title>
+          <title>Bankkonten</title>
         </bookmark>
       </folder>
       <folder id="1557">
         <title>Verkauf</title>
         <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
-          <title>Verkauf - Aufträge</title>
+          <title>Aufträge</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
-          <title>Verkauf - Angebote</title>
+          <title>Angebote</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/customers" id="166">
-          <title>Verkauf - Kunden</title>
+          <title>Kunden</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
-          <title>Verkauf - Abzurechnende Aufträge</title>
+          <title>Abzurechnende Aufträge</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/products" id="168">
-          <title>Verkauf - Produkte</title>
+          <title>Produkte</title>
         </bookmark>
         <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/product-tags" id="425">
-          <title>Verkauf - Produkt-Stichwörter</title>
+          <title>Produkt-Stichwörter</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
-          <title>Verkauf - Preislisten</title>
+          <title>Preislisten</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
-          <title>Verkauf - Angebotsvorlagen</title>
+          <title>Angebotsvorlagen</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
-          <title>Verkauf - Meine Aktivitäten</title>
+          <title>Meine Aktivitäten</title>
         </bookmark>
       </folder>
       <folder id="1558">
@@ -1247,12 +1253,6 @@
       </folder>
       <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
         <title>Konfiguration - E-Mail-Vorlagen</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
-        <title>Pipeline (Timetac)</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
-        <title>Monitor (Timetac)</title>
       </bookmark>
     </folder>
     <folder id="78">
