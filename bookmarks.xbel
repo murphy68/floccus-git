@@ -136,6 +136,21 @@
   </folder>
   <folder id="20">
     <title>privat</title>
+    <folder id="65">
+      <title>Wetter</title>
+      <bookmark href="https://www.bergfex.at/sommer/graz/wetter/prognose/#day0" id="139">
+        <title>Wettervorhersage Graz - Stadt: 9 Tage - bergfex</title>
+      </bookmark>
+      <bookmark href="https://www.geosphere.at/de#tab=chart&amp;point_id=1531" id="140">
+        <title>Wetterprognose Österreich</title>
+      </bookmark>
+      <bookmark href="https://www.bergfex.at/w/at/gosting/wetter/#day1" id="141">
+        <title>Wetter Gösting - bergfex</title>
+      </bookmark>
+      <bookmark href="https://wetter.orf.at/steiermark/" id="142">
+        <title>Steiermark - wetter.ORF.at</title>
+      </bookmark>
+    </folder>
     <folder id="57">
       <title>Gesundheit</title>
       <bookmark href="https://www.fuehldichwohl-energetik.at/" id="94">
@@ -365,21 +380,6 @@
       </bookmark>
       <bookmark href="https://www.service-wohnen.at/wohnbauprojekt/8985502?from=742961" id="138">
         <title>Stadthaus Waltendorf</title>
-      </bookmark>
-    </folder>
-    <folder id="65">
-      <title>Wetter</title>
-      <bookmark href="https://www.bergfex.at/sommer/graz/wetter/prognose/#day0" id="139">
-        <title>Wettervorhersage Graz - Stadt: 9 Tage - bergfex</title>
-      </bookmark>
-      <bookmark href="https://www.geosphere.at/de#tab=chart&amp;point_id=1531" id="140">
-        <title>Wetterprognose Österreich</title>
-      </bookmark>
-      <bookmark href="https://www.bergfex.at/w/at/gosting/wetter/#day1" id="141">
-        <title>Wetter Gösting - bergfex</title>
-      </bookmark>
-      <bookmark href="https://wetter.orf.at/steiermark/" id="142">
-        <title>Steiermark - wetter.ORF.at</title>
       </bookmark>
     </folder>
     <bookmark href="https://oem.sena.com/schuberth/" id="1548">
