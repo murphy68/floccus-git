@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1555: for Floccus bookmark sync browser extension -->
+<!--- highestId :1564: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1128,54 +1128,72 @@
       <bookmark href="https://vmcon.odoo.com/odoo" id="159">
         <title>Odoo Echtinstanz</title>
       </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-58" id="160">
-        <title>Kontakte - Stichwörter</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-59" id="161">
-        <title>Kontakte - Branchen</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-60" id="162">
-        <title>Kontakte - Banken</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-61" id="163">
-        <title>Kontakte - Bankkonten</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
-        <title>Verkauf - Angebote</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
-        <title>Verkauf - Aufträge</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/customers" id="166">
-        <title>Verkauf - Kunden</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
-        <title>Verkauf - Abzurechnende Aufträge</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/products" id="168">
-        <title>Verkauf - Produkte</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/product-tags" id="425">
-        <title>Verkauf - Produkt-Stichwörter</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
-        <title>Verkauf - Preislisten</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
-        <title>Verkauf - Angebotsvorlagen</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
-        <title>Verkauf - Meine Aktivitäten</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
-        <title>Konfiguration - E-Mail-Vorlagen</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
-        <title>Pipeline (Timetac)</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
-        <title>Monitor (Timetac)</title>
-      </bookmark>
+      <folder id="1556">
+        <title>Kontakte</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-58" id="160">
+          <title>Kontakte - Stichwörter</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-59" id="161">
+          <title>Kontakte - Branchen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-60" id="162">
+          <title>Kontakte - Banken</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-61" id="163">
+          <title>Kontakte - Bankkonten</title>
+        </bookmark>
+      </folder>
+      <folder id="1557">
+        <title>Verkauf</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
+          <title>Verkauf - Aufträge</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
+          <title>Verkauf - Angebote</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="166">
+          <title>Verkauf - Kunden</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
+          <title>Verkauf - Abzurechnende Aufträge</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/products" id="168">
+          <title>Verkauf - Produkte</title>
+        </bookmark>
+        <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/product-tags" id="425">
+          <title>Verkauf - Produkt-Stichwörter</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
+          <title>Verkauf - Preislisten</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
+          <title>Verkauf - Angebotsvorlagen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
+          <title>Verkauf - Meine Aktivitäten</title>
+        </bookmark>
+      </folder>
+      <folder id="1558">
+        <title>Buchhaltung</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/customer-invoices" id="1559">
+          <title>Ausgangsrechnungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customer-payments" id="1560">
+          <title>Kundenzahlungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/entries" id="1561">
+          <title>Journalbuchungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/aged-receivable" id="1562">
+          <title>Offene Forderungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/vendor-bills" id="1563">
+          <title>Eingangsrechnungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/taxes" id="1564">
+          <title>Steuern</title>
+        </bookmark>
+      </folder>
       <folder id="431">
         <title>Einstellungen</title>
         <bookmark href="https://vmcon.odoo.com/odoo/settings#general_settings" id="447">
@@ -1227,6 +1245,15 @@
           <title>Nachrichten</title>
         </bookmark>
       </folder>
+      <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
+        <title>Konfiguration - E-Mail-Vorlagen</title>
+      </bookmark>
+      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
+        <title>Pipeline (Timetac)</title>
+      </bookmark>
+      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
+        <title>Monitor (Timetac)</title>
+      </bookmark>
     </folder>
     <folder id="78">
       <title>UDO TEST</title>
