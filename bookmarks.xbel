@@ -1126,11 +1126,11 @@
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
       <title>Aufgaben Int Udo Umstellung</title>
     </bookmark>
-    <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
-      <title>Entwicklermodus Echt</title>
-    </bookmark>
     <folder id="77">
       <title>UDO Echt</title>
+      <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
+        <title>Entwicklermodus Echt</title>
+      </bookmark>
       <bookmark href="https://vmcon.odoo.com/odoo" id="159">
         <title>Odoo Echtinstanz</title>
       </bookmark>
