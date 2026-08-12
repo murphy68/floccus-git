@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1572: for Floccus bookmark sync browser extension -->
+<!--- highestId :1573: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1125,6 +1125,9 @@
     <title>UDO-CRM</title>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
       <title>Aufgaben Int Udo Umstellung</title>
+    </bookmark>
+    <bookmark href="https://www.odoo.com/documentation/19.0/applications.html" id="1573">
+      <title>User Docs — Odoo 19.0 documentation</title>
     </bookmark>
     <folder id="77">
       <title>UDO Echt</title>
