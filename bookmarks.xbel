@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1574: for Floccus bookmark sync browser extension -->
+<!--- highestId :1575: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1459,6 +1459,9 @@
   </folder>
   <folder id="239">
     <title>Linux</title>
+    <bookmark href="https://ubuntu.com/pro/dashboard?" id="1575">
+      <title>Ubuntu Pro Dashboard | Ubuntu</title>
+    </bookmark>
     <bookmark href="https://assets.ubuntu.com/v1/d00791ae-ubuntu_cli_cheat_sheet_2025.pdf" id="1574">
       <title>ubuntu_cli_cheat_sheet_2025.pdf</title>
     </bookmark>
