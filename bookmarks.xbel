@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1576: for Floccus bookmark sync browser extension -->
+<!--- highestId :1577: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1713,6 +1713,9 @@
     </bookmark>
     <bookmark href="https://www.naturalreaders.com/commercial/" id="682">
       <title>Create voiceover audio using AI Text to Speech | NaturalReader</title>
+    </bookmark>
+    <bookmark href="https://relationflow.io/#preise" id="1577">
+      <title>relationflow.io – Alle Top-KI-Modelle. Eine sichere Plattform.</title>
     </bookmark>
   </folder>
   <folder id="241">
