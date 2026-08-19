@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1578: for Floccus bookmark sync browser extension -->
+<!--- highestId :1579: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1299,6 +1299,9 @@
     </bookmark>
     <bookmark href="https://www.odoo-community.org/" id="1571">
       <title>Odoo Community Association Home page</title>
+    </bookmark>
+    <bookmark href="https://www.odoo-community.org/list-of-must-have-oca-modules" id="1579">
+      <title>List of &quot;must have&quot; Base OCA modules | The Odoo Communtiy Association</title>
     </bookmark>
   </folder>
   <folder id="23">
