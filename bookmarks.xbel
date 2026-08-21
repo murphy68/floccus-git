@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1581: for Floccus bookmark sync browser extension -->
+<!--- highestId :1590: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1126,6 +1126,15 @@
   </folder>
   <folder id="22">
     <title>UDO-CRM</title>
+    <folder id="1588">
+      <title>Apps-Check</title>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
+        <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/axoline_layout_editor" id="1590">
+        <title>Axoline Odoo Layout Editor | PDF Report Designer &amp; Drag Drop | Odoo Apps Store</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
       <title>Aufgaben Int Udo Umstellung</title>
     </bookmark>
@@ -1281,23 +1290,23 @@
     </folder>
     <folder id="78">
       <title>UDO TEST</title>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo" id="169">
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/web?debug=1" id="1582">
+        <title>Entwicklermodus Test</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo" id="1583">
         <title>Testinstanz</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/action-31?debug=1" id="1581">
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/action-31?debug=1" id="1584">
         <title>Ansichten</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/action-507" id="170">
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/action-507" id="1585">
         <title>Projekte</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="171">
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1586">
         <title>Alle Aufgaben</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/automations?debug=1" id="172">
+      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/automations?debug=1" id="1587">
         <title>Automatisierungsregeln</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-35293095.dev.odoo.com/web?debug=1" id="1568">
-        <title>Entwicklermodus Test</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.odoo-austria.at/blog" id="1570">
