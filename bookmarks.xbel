@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1598: for Floccus bookmark sync browser extension -->
+<!--- highestId :1600: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1207,6 +1207,12 @@
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
           <title>Meine Aktivitäten</title>
+        </bookmark>
+      </folder>
+      <folder id="1599">
+        <title>Projekte</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/all-tasks?debug=1" id="1600">
+          <title>Alle Aufgaben</title>
         </bookmark>
       </folder>
       <folder id="1558">
