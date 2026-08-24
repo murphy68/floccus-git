@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1593: for Floccus bookmark sync browser extension -->
+<!--- highestId :1598: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1296,19 +1296,19 @@
       <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo/web?debug=1" id="1593">
         <title>Entwicklermodus Test</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo" id="1583">
+      <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo" id="1594">
         <title>Testinstanz</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/action-31?debug=1" id="1584">
+      <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo/action-31?debug=1" id="1595">
         <title>Ansichten</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/action-507" id="1585">
+      <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo/action-507" id="1596">
         <title>Projekte</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1586">
+      <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1597">
         <title>Alle Aufgaben</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-36748090.dev.odoo.com/odoo/automations?debug=1" id="1587">
+      <bookmark href="https://vmcon-test-36849814.dev.odoo.com/odoo/automations?debug=1" id="1598">
         <title>Automatisierungsregeln</title>
       </bookmark>
     </folder>
