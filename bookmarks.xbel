@@ -1184,11 +1184,11 @@
         <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
           <title>Aufträge</title>
         </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
-          <title>Angebote</title>
-        </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/customers" id="166">
           <title>Kunden</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
+          <title>Angebote</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
           <title>Abzurechnende Aufträge</title>
@@ -1202,11 +1202,11 @@
         <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
           <title>Preislisten</title>
         </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
-          <title>Angebotsvorlagen</title>
-        </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
           <title>Meine Aktivitäten</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
+          <title>Angebotsvorlagen</title>
         </bookmark>
       </folder>
       <folder id="1599">
