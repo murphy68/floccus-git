@@ -1143,14 +1143,14 @@
     </bookmark>
     <folder id="77">
       <title>UDO Echt</title>
-      <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
-        <title>Pantalytics - MCP Odoo</title>
-      </bookmark>
       <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
         <title>Entwicklermodus Echt</title>
       </bookmark>
       <bookmark href="https://vmcon.odoo.com/odoo" id="159">
         <title>Odoo Echtinstanz</title>
+      </bookmark>
+      <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
+        <title>Pantalytics - MCP Odoo</title>
       </bookmark>
       <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
         <title>Pipeline (Timetac)</title>
