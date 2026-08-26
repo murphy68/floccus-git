@@ -1143,9 +1143,6 @@
     </bookmark>
     <folder id="77">
       <title>UDO Echt</title>
-      <bookmark href="https://vmcon.odoo.com/odoo" id="159">
-        <title>ECHT Startseite</title>
-      </bookmark>
       <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
         <title>Pantalytics - MCP Odoo</title>
       </bookmark>
@@ -1292,6 +1289,9 @@
       </bookmark>
       <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
         <title>ECHT Entwicklermodus</title>
+      </bookmark>
+      <bookmark href="https://vmcon.odoo.com/odoo" id="159">
+        <title>ECHT Startseite</title>
       </bookmark>
     </folder>
     <folder id="78">
