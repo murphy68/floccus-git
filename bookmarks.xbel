@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1601: for Floccus bookmark sync browser extension -->
+<!--- highestId :1602: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1546,6 +1546,9 @@
   </folder>
   <folder id="240">
     <title>AI</title>
+    <bookmark href="http://192.168.1.74:3000/" id="1602">
+      <title>Open WebUI</title>
+    </bookmark>
     <bookmark href="https://www.perplexity.ai/" id="262">
       <title>Perplexity</title>
     </bookmark>
