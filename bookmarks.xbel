@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1608: for Floccus bookmark sync browser extension -->
+<!--- highestId :1611: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1131,12 +1131,6 @@
     <title>UDO-CRM</title>
     <folder id="1588">
       <title>Apps-Check</title>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
-        <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
-      </bookmark>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/axoline_layout_editor" id="1590">
-        <title>Axoline Odoo Layout Editor | PDF Report Designer &amp; Drag Drop | Odoo Apps Store</title>
-      </bookmark>
       <folder id="1607">
         <title>Theme</title>
         <bookmark href="https://apps.odoo.com/apps/themes/19.0/spiffy_theme_backend_ent" id="1603">
@@ -1155,6 +1149,21 @@
           <title>Kraken Backend Theme (Enterprise Edition) | Odoo Apps Store</title>
         </bookmark>
       </folder>
+      <folder id="1609">
+        <title>Storage</title>
+        <bookmark href="https://apps.odoo.com/apps/modules/19.0/cloud_base" id="1611">
+          <title>Cloud Storage Solutions | Odoo Apps Store</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
+        <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
+      </bookmark>
+      <folder id="1610">
+        <title>Rechte</title>
+      </folder>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/axoline_layout_editor" id="1590">
+        <title>Axoline Odoo Layout Editor | PDF Report Designer &amp; Drag Drop | Odoo Apps Store</title>
+      </bookmark>
     </folder>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
       <title>Aufgaben Int Udo Umstellung</title>
