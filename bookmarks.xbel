@@ -1158,9 +1158,6 @@
           <title>Cloud Storage Solutions | Odoo Apps Store</title>
         </bookmark>
       </folder>
-      <bookmark href="https://apps.odoo.com/apps/modules/browse?search=3cx" id="1613">
-        <title>Module Search 3cx | Odoo Apps Store</title>
-      </bookmark>
       <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
         <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
       </bookmark>
@@ -1169,6 +1166,9 @@
       </bookmark>
       <bookmark href="https://apps.odoo.com/apps/modules/19.0/cr_3cx_crm_connector" id="1612">
         <title>Odoo 3CX CRM Connector | 3CX Phone System Integration with Odoo | Click-to-Call, Call Popup &amp; Call Logging | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/browse?search=3cx" id="1613">
+        <title>Module Search 3cx | Odoo Apps Store</title>
       </bookmark>
     </folder>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
