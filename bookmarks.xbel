@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1605: for Floccus bookmark sync browser extension -->
+<!--- highestId :1607: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1129,6 +1129,9 @@
   </folder>
   <folder id="22">
     <title>UDO-CRM</title>
+    <folder id="1607">
+      <title>Theme</title>
+    </folder>
     <folder id="1588">
       <title>Apps-Check</title>
       <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
@@ -1145,6 +1148,9 @@
       </bookmark>
       <bookmark href="https://apps.odoo.com/apps/themes/19.0/aura_backend_theme_ent" id="1605">
         <title>Aura Backend Theme - Enterprise Edition | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/themes/19.0/pine_backend_theme" id="1606">
+        <title>Pine Backend Theme (Community Edition) | Odoo Apps Store</title>
       </bookmark>
     </folder>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
