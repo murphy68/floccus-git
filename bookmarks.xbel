@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1613: for Floccus bookmark sync browser extension -->
+<!--- highestId :1614: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1169,6 +1169,9 @@
       </bookmark>
       <bookmark href="https://apps.odoo.com/apps/modules/browse?search=3cx" id="1613">
         <title>Module Search 3cx | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/muk_3cx_connector" id="1614">
+        <title>MuK 3CX Connector | Odoo Apps Store</title>
       </bookmark>
     </folder>
     <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
