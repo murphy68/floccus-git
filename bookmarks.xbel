@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1623: for Floccus bookmark sync browser extension -->
+<!--- highestId :1630: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1341,25 +1341,25 @@
     </folder>
     <folder id="78">
       <title>UDO TEST</title>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/action-31/1849?debug=1" id="1617">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/action-31/1849?debug=1" id="1624">
         <title>external_layout_din5008_account_move</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/web?debug=1" id="1618">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/web?debug=1" id="1625">
         <title>Entwicklermodus Test</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo" id="1619">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo" id="1626">
         <title>Testinstanz</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/action-31?debug=1" id="1620">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/action-31?debug=1" id="1627">
         <title>Ansichten</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/action-507" id="1621">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/action-507" id="1628">
         <title>Projekte</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1622">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1629">
         <title>Alle Aufgaben</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37210180.dev.odoo.com/odoo/automations?debug=1" id="1623">
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/automations?debug=1" id="1630">
         <title>Automatisierungsregeln</title>
       </bookmark>
     </folder>
