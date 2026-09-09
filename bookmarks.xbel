@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1630: for Floccus bookmark sync browser extension -->
+<!--- highestId :1631: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1226,11 +1226,11 @@
         <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
           <title>Aufträge</title>
         </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="166">
-          <title>Kunden</title>
-        </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
           <title>Angebote</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="1631">
+          <title>Kunden</title>
         </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
           <title>Abzurechnende Aufträge</title>
@@ -1244,11 +1244,11 @@
         <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
           <title>Preislisten</title>
         </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
-          <title>Meine Aktivitäten</title>
-        </bookmark>
         <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
           <title>Angebotsvorlagen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
+          <title>Meine Aktivitäten</title>
         </bookmark>
       </folder>
       <folder id="1599">
