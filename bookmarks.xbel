@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1631: for Floccus bookmark sync browser extension -->
+<!--- highestId :1632: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1696,6 +1696,9 @@
         <title>Stable Diffusion Samplers: A Comprehensive Guide - Stable Diffusion Art</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.zentre.ai/de/" id="1632">
+      <title>KI für vertrauliche Arbeit | Zentre</title>
+    </bookmark>
     <bookmark href="https://www.howtoverify.info/" id="269">
       <title>How to verify?</title>
     </bookmark>
