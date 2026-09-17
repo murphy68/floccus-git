@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1632: for Floccus bookmark sync browser extension -->
+<!--- highestId :1633: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1129,6 +1129,9 @@
   </folder>
   <folder id="22">
     <title>UDO-CRM</title>
+    <bookmark href="https://kaiserdigital.odoo.com/my/projects/49?groupby=stage_id&amp;access_token=fbd2a776-6312-4091-a8d6-8d074fdd973d&amp;hash=804d654fe627d26b54abae727c3adf3f7e8595b95522cca3fc20ad3c3470da37&amp;pid=622" id="1633">
+      <title>vmcon-Odoo-Einführung | Kaiser Digital</title>
+    </bookmark>
     <folder id="1588">
       <title>Apps-Check</title>
       <folder id="1607">
