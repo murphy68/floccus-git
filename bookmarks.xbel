@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1637: for Floccus bookmark sync browser extension -->
+<!--- highestId :1640: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1344,16 +1344,16 @@
     </folder>
     <folder id="78">
       <title>UDO TEST</title>
-      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/action-31/1849?debug=1" id="1624">
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31/1849?debug=1" id="1638">
         <title>external_layout_din5008_account_move</title>
       </bookmark>
       <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/web?debug=1" id="1625">
         <title>Entwicklermodus Test</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo" id="1626">
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo" id="1639">
         <title>Testinstanz</title>
       </bookmark>
-      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/action-31?debug=1" id="1627">
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31?debug=1" id="1640">
         <title>Ansichten</title>
       </bookmark>
       <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-507" id="1637">
