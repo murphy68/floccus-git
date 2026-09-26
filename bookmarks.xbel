@@ -1129,6 +1129,9 @@
   </folder>
   <folder id="22">
     <title>UDO-CRM</title>
+    <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
+      <title>ECHT Entwicklermodus</title>
+    </bookmark>
     <bookmark href="https://kaiserdigital.odoo.com/my/projects/49?groupby=stage_id&amp;access_token=fbd2a776-6312-4091-a8d6-8d074fdd973d&amp;hash=804d654fe627d26b54abae727c3adf3f7e8595b95522cca3fc20ad3c3470da37&amp;pid=622" id="1633">
       <title>vmcon-Odoo-Einführung | Kaiser Digital</title>
     </bookmark>
@@ -1191,9 +1194,6 @@
     </bookmark>
     <folder id="77">
       <title>UDO Echt</title>
-      <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
-        <title>ECHT Entwicklermodus</title>
-      </bookmark>
       <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
         <title>Pantalytics - MCP Odoo</title>
       </bookmark>
