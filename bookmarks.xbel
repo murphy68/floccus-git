@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1641: for Floccus bookmark sync browser extension -->
+<!--- highestId :1642: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1205,6 +1205,9 @@
       </bookmark>
       <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
         <title>Monitor (Timetac)</title>
+      </bookmark>
+      <bookmark href="https://vmcon.odoo.com/odoo/all-timesheets/project.project/433/project-timesheets" id="1642">
+        <title>Timesheets</title>
       </bookmark>
       <folder id="1556">
         <title>Kontakte</title>
