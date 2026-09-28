@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1640: for Floccus bookmark sync browser extension -->
+<!--- highestId :1641: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -541,6 +541,9 @@
         <title>Office 365 - Bird&apos;s Eye View | AdminDroid Office 365 Reporter</title>
       </bookmark>
     </folder>
+    <bookmark href="https://vonm.sharepoint.com/MeineBerater/Lists/Projekte/AllItems.aspx?FilterField1=ProjektID&amp;FilterValue1=Rettensteiner%2DDS%2D385&amp;FilterType1=Text&amp;viewid=2ff09677%2D0998%2D49e9%2D812f%2D8d0b457b1861" id="1641">
+      <title>_MeineBerater - Projekte</title>
+    </bookmark>
     <folder id="296">
       <title>Azure/Entra</title>
       <bookmark href="https://portal.azure.com/#@vmcon.at/resource/subscriptions/1ebff1fc-ee2c-496d-a4ed-950924d1c324/resourceGroups/rg-teams-gruppen/providers/Microsoft.Automation/automationAccounts/AA-TeamsSync/overview" id="1545">
