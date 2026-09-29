@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1642: for Floccus bookmark sync browser extension -->
+<!--- highestId :1643: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -17,7 +17,7 @@
   <bookmark href="https://planner.cloud.microsoft/webui/plan/rsdP5jkmikuGPuVzfdg3nZYAB3R3/view/board?tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="17">
     <title>_BEVM_privat</title>
   </bookmark>
-  <bookmark href="https://vmcon.odoo.com/odoo" id="1567">
+  <bookmark href="https://vmcon.odoo.com/odoo?debug=1" id="1643">
     <title>Home</title>
   </bookmark>
   <folder id="18">
