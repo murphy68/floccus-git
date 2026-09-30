@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1643: for Floccus bookmark sync browser extension -->
+<!--- highestId :1644: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -176,6 +176,9 @@
       </bookmark>
       <bookmark href="https://wirksaft.com/lebensmittel/keltisches-meersalz-celtic-salt-entdecken-sie-das-unraffinierte-graue-gold-der-bretagne/" id="100">
         <title>Keltisches Meersalz (Celtic Sea Salt): Eine Warnung – Dieses Zeug ist gefährlich lecker - wirksaft.com</title>
+      </bookmark>
+      <bookmark href="https://at.bluefarm.co/blogs/theblue/pflanzlich-stark-top-10-der-veganen-protein-eiweiss-quellen" id="1644">
+        <title>Pflanzlich stark – Top 10 der veganen Protein (Eiweiß-)quellen – Blue Farm</title>
       </bookmark>
     </folder>
     <folder id="58">
