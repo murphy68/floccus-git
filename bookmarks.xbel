@@ -1337,13 +1337,10 @@
         <bookmark href="https://vmcon.odoo.com/odoo/action-116" id="452">
           <title>Aktivitätspläne</title>
         </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-97" id="453">
+        <bookmark href="https://vmcon.odoo.com/odoo/action-97?debug=1" id="1647">
           <title>Nachrichten</title>
         </bookmark>
       </folder>
-      <bookmark href="https://vmcon.odoo.com/odoo/action-97?debug=1" id="1647">
-        <title>Nachrichten</title>
-      </bookmark>
       <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
         <title>Konfiguration - E-Mail-Vorlagen</title>
       </bookmark>
