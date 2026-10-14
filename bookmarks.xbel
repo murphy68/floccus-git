@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1647: for Floccus bookmark sync browser extension -->
+<!--- highestId :1648: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -11,11 +11,269 @@
   <bookmark href="https://planner.cloud.microsoft/webui/plan/rsdP5jkmikuGPuVzfdg3nZYAB3R3/view/board?tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="17">
     <title>_BEVM_privat</title>
   </bookmark>
+  <folder id="22">
+    <title>UDO-CRM</title>
+    <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
+      <title>ECHT Entwicklermodus</title>
+    </bookmark>
+    <bookmark href="https://kaiserdigital.odoo.com/my/projects/49?groupby=stage_id&amp;access_token=fbd2a776-6312-4091-a8d6-8d074fdd973d&amp;hash=804d654fe627d26b54abae727c3adf3f7e8595b95522cca3fc20ad3c3470da37&amp;pid=622" id="1633">
+      <title>vmcon-Odoo-Einführung | Kaiser Digital</title>
+    </bookmark>
+    <folder id="1588">
+      <title>Apps-Check</title>
+      <folder id="1607">
+        <title>Theme</title>
+        <bookmark href="https://apps.odoo.com/apps/themes/19.0/spiffy_theme_backend_ent" id="1603">
+          <title>Spiffy Backend Enterprise Theme | Odoo Apps Store</title>
+        </bookmark>
+        <bookmark href="https://apps.odoo.com/apps/themes/19.0/pine_backend_theme" id="1606">
+          <title>Pine Backend Theme (Community Edition) | Odoo Apps Store</title>
+        </bookmark>
+        <bookmark href="https://apps.odoo.com/apps/themes/19.0/aura_backend_theme_ent" id="1605">
+          <title>Aura Backend Theme - Enterprise Edition | Odoo Apps Store</title>
+        </bookmark>
+        <bookmark href="https://apps.odoo.com/apps/themes/18.0/sh_corpomate_theme" id="1604">
+          <title>Corpomate Theme - Multipurpose Corporate Theme | Odoo Apps Store</title>
+        </bookmark>
+        <bookmark href="https://apps.odoo.com/apps/themes/19.0/kraken_backend_theme_ent" id="1608">
+          <title>Kraken Backend Theme (Enterprise Edition) | Odoo Apps Store</title>
+        </bookmark>
+        <bookmark href="https://apps.odoo.com/apps/themes/19.0/muk_web_theme" id="1615">
+          <title>MuK Backend Theme | Odoo Apps Store</title>
+        </bookmark>
+      </folder>
+      <folder id="1610">
+        <title>Rechte</title>
+      </folder>
+      <folder id="1609">
+        <title>Storage</title>
+        <bookmark href="https://apps.odoo.com/apps/modules/19.0/cloud_base" id="1611">
+          <title>Cloud Storage Solutions | Odoo Apps Store</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
+        <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/axoline_layout_editor" id="1590">
+        <title>Axoline Odoo Layout Editor | PDF Report Designer &amp; Drag Drop | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/cr_3cx_crm_connector" id="1612">
+        <title>Odoo 3CX CRM Connector | 3CX Phone System Integration with Odoo | Click-to-Call, Call Popup &amp; Call Logging | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/browse?search=3cx" id="1613">
+        <title>Module Search 3cx | Odoo Apps Store</title>
+      </bookmark>
+      <bookmark href="https://apps.odoo.com/apps/modules/19.0/muk_3cx_connector" id="1614">
+        <title>MuK 3CX Connector | Odoo Apps Store</title>
+      </bookmark>
+      <folder id="1616">
+        <title>geht nicht</title>
+      </folder>
+    </folder>
+    <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
+      <title>Aufgaben Int Udo Umstellung</title>
+    </bookmark>
+    <bookmark href="https://www.odoo.com/documentation/19.0/applications.html" id="1573">
+      <title>User Docs — Odoo 19.0 documentation</title>
+    </bookmark>
+    <folder id="77">
+      <title>UDO Echt</title>
+      <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
+        <title>Pantalytics - MCP Odoo</title>
+      </bookmark>
+      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
+        <title>Pipeline (Timetac)</title>
+      </bookmark>
+      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
+        <title>Monitor (Timetac)</title>
+      </bookmark>
+      <bookmark href="https://vmcon.odoo.com/odoo/all-timesheets/project.project/433/project-timesheets" id="1642">
+        <title>Timesheets</title>
+      </bookmark>
+      <folder id="1556">
+        <title>Kontakte</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/contacts" id="1565">
+          <title>Kontakte</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="1566">
+          <title>Kunden</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-58" id="160">
+          <title>Stichwörter</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-59" id="161">
+          <title>Branchen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-60" id="162">
+          <title>Banken</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-61" id="163">
+          <title>Bankkonten</title>
+        </bookmark>
+      </folder>
+      <folder id="1557">
+        <title>Verkauf</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
+          <title>Aufträge</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
+          <title>Angebote</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="1631">
+          <title>Kunden</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
+          <title>Abzurechnende Aufträge</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/products" id="168">
+          <title>Produkte</title>
+        </bookmark>
+        <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/product-tags" id="425">
+          <title>Produkt-Stichwörter</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
+          <title>Preislisten</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
+          <title>Angebotsvorlagen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
+          <title>Meine Aktivitäten</title>
+        </bookmark>
+      </folder>
+      <folder id="1599">
+        <title>Projekte</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/all-tasks?debug=1" id="1600">
+          <title>Alle Aufgaben</title>
+        </bookmark>
+      </folder>
+      <folder id="1558">
+        <title>Buchhaltung</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/customer-invoices" id="1559">
+          <title>Ausgangsrechnungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/customer-payments" id="1560">
+          <title>Kundenzahlungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/entries" id="1561">
+          <title>Journalbuchungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/aged-receivable" id="1562">
+          <title>Offene Forderungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/vendor-bills" id="1563">
+          <title>Eingangsrechnungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/taxes" id="1564">
+          <title>Steuern</title>
+        </bookmark>
+      </folder>
+      <folder id="431">
+        <title>Einstellungen</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/settings#general_settings" id="447">
+          <title>Einstellungen Allgemein</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/users" id="448">
+          <title>Einstellungen - Benutzer</title>
+        </bookmark>
+      </folder>
+      <folder id="432">
+        <title>Technisch</title>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-99" id="454">
+          <title>E-Mails</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/email-templates" id="455">
+          <title>E-Mail-Vorlagen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-8" id="456">
+          <title>Fensteraktionen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-20" id="457">
+          <title>Modelle</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-21" id="458">
+          <title>Felder</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/access-rights" id="538">
+          <title>Zugriffsrechte</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/automations" id="539">
+          <title>Automatisierungsregeln</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/crons" id="540">
+          <title>Geplante Aktionen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-133" id="449">
+          <title>Benutzereinstellungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/server-actions" id="1572">
+          <title>Serveraktionen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-96" id="450">
+          <title>Benachrichtigungen</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-130" id="451">
+          <title>Gäste</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-116" id="452">
+          <title>Aktivitätspläne</title>
+        </bookmark>
+        <bookmark href="https://vmcon.odoo.com/odoo/action-97?debug=1" id="1647">
+          <title>Nachrichten</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
+        <title>Konfiguration - E-Mail-Vorlagen</title>
+      </bookmark>
+      <bookmark href="https://vmcon.odoo.com/odoo?debug=1" id="1645">
+        <title>ECHT Startseite</title>
+      </bookmark>
+    </folder>
+    <folder id="78">
+      <title>UDO TEST</title>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31/1849?debug=1" id="1638">
+        <title>external_layout_din5008_account_move</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/web?debug=1" id="1625">
+        <title>Entwicklermodus Test</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo" id="1639">
+        <title>Testinstanz</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31?debug=1" id="1640">
+        <title>Ansichten</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-507" id="1637">
+        <title>Projekte</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1635">
+        <title>Alle Aufgaben</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/automations?debug=1" id="1636">
+        <title>Automatisierungsregeln</title>
+      </bookmark>
+      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/web/login?redirect=%2Fodoo%3F" id="1634">
+        <title>Login | My Website</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.odoo-austria.at/blog" id="1570">
+      <title>Blog Posts | Default Website</title>
+    </bookmark>
+    <bookmark href="https://www.odoo-community.org/" id="1571">
+      <title>Odoo Community Association Home page</title>
+    </bookmark>
+    <bookmark href="https://www.odoo-community.org/list-of-must-have-oca-modules" id="1579">
+      <title>List of &quot;must have&quot; Base OCA modules | The Odoo Communtiy Association</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://vmcon.odoo.com/odoo?debug=1" id="1643">
     <title>Home</title>
   </bookmark>
   <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks?debug=1" id="1646">
     <title>INT_UDO_Umstellung</title>
+  </bookmark>
+  <bookmark href="https://vmcon.odoo.com/odoo/action-507?debug=1" id="1648">
+    <title>Projekte</title>
   </bookmark>
   <folder id="18">
     <title>SPK</title>
@@ -1128,261 +1386,6 @@
     </bookmark>
     <bookmark href="https://winfuture.de/special/windows11/faq/Windows-11-10-So-einfach-aktiviert-ihr-den-nuetzlichen-God-Mode-250.html" id="845">
       <title>Windows 11 &amp; 10: So einfach aktiviert ihr den nützlichen &quot;God Mode&quot;</title>
-    </bookmark>
-  </folder>
-  <folder id="22">
-    <title>UDO-CRM</title>
-    <bookmark href="https://vmcon.odoo.com/web?debug=1" id="1569">
-      <title>ECHT Entwicklermodus</title>
-    </bookmark>
-    <bookmark href="https://kaiserdigital.odoo.com/my/projects/49?groupby=stage_id&amp;access_token=fbd2a776-6312-4091-a8d6-8d074fdd973d&amp;hash=804d654fe627d26b54abae727c3adf3f7e8595b95522cca3fc20ad3c3470da37&amp;pid=622" id="1633">
-      <title>vmcon-Odoo-Einführung | Kaiser Digital</title>
-    </bookmark>
-    <folder id="1588">
-      <title>Apps-Check</title>
-      <folder id="1607">
-        <title>Theme</title>
-        <bookmark href="https://apps.odoo.com/apps/themes/19.0/spiffy_theme_backend_ent" id="1603">
-          <title>Spiffy Backend Enterprise Theme | Odoo Apps Store</title>
-        </bookmark>
-        <bookmark href="https://apps.odoo.com/apps/themes/19.0/pine_backend_theme" id="1606">
-          <title>Pine Backend Theme (Community Edition) | Odoo Apps Store</title>
-        </bookmark>
-        <bookmark href="https://apps.odoo.com/apps/themes/19.0/aura_backend_theme_ent" id="1605">
-          <title>Aura Backend Theme - Enterprise Edition | Odoo Apps Store</title>
-        </bookmark>
-        <bookmark href="https://apps.odoo.com/apps/themes/18.0/sh_corpomate_theme" id="1604">
-          <title>Corpomate Theme - Multipurpose Corporate Theme | Odoo Apps Store</title>
-        </bookmark>
-        <bookmark href="https://apps.odoo.com/apps/themes/19.0/kraken_backend_theme_ent" id="1608">
-          <title>Kraken Backend Theme (Enterprise Edition) | Odoo Apps Store</title>
-        </bookmark>
-        <bookmark href="https://apps.odoo.com/apps/themes/19.0/muk_web_theme" id="1615">
-          <title>MuK Backend Theme | Odoo Apps Store</title>
-        </bookmark>
-      </folder>
-      <folder id="1610">
-        <title>Rechte</title>
-      </folder>
-      <folder id="1609">
-        <title>Storage</title>
-        <bookmark href="https://apps.odoo.com/apps/modules/19.0/cloud_base" id="1611">
-          <title>Cloud Storage Solutions | Odoo Apps Store</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/odoo_advance_dashboard" id="1589">
-        <title>Advance Dashboard — Interactive KPI Builder, Charts, TV Mode &amp; Custom SQL for Odoo | Odoo Apps Store</title>
-      </bookmark>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/axoline_layout_editor" id="1590">
-        <title>Axoline Odoo Layout Editor | PDF Report Designer &amp; Drag Drop | Odoo Apps Store</title>
-      </bookmark>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/cr_3cx_crm_connector" id="1612">
-        <title>Odoo 3CX CRM Connector | 3CX Phone System Integration with Odoo | Click-to-Call, Call Popup &amp; Call Logging | Odoo Apps Store</title>
-      </bookmark>
-      <bookmark href="https://apps.odoo.com/apps/modules/browse?search=3cx" id="1613">
-        <title>Module Search 3cx | Odoo Apps Store</title>
-      </bookmark>
-      <bookmark href="https://apps.odoo.com/apps/modules/19.0/muk_3cx_connector" id="1614">
-        <title>MuK 3CX Connector | Odoo Apps Store</title>
-      </bookmark>
-      <folder id="1616">
-        <title>geht nicht</title>
-      </folder>
-    </folder>
-    <bookmark href="https://vmcon.odoo.com/odoo/action-507/3/tasks" id="1555">
-      <title>Aufgaben Int Udo Umstellung</title>
-    </bookmark>
-    <bookmark href="https://www.odoo.com/documentation/19.0/applications.html" id="1573">
-      <title>User Docs — Odoo 19.0 documentation</title>
-    </bookmark>
-    <folder id="77">
-      <title>UDO Echt</title>
-      <bookmark href="https://mcp.pantalytics.com/admin/home" id="1578">
-        <title>Pantalytics - MCP Odoo</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/authoring/pipeline/PL_TimeTac_Export?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="429">
-        <title>Pipeline (Timetac)</title>
-      </bookmark>
-      <bookmark href="https://adf.azure.com/de/monitoring/pipelineruns?factory=%2Fsubscriptions%2F1ebff1fc-ee2c-496d-a4ed-950924d1c324%2FresourceGroups%2Frg-timetac-export%2Fproviders%2FMicrosoft.DataFactory%2Ffactories%2Fdf-timetac-export" id="430">
-        <title>Monitor (Timetac)</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo/all-timesheets/project.project/433/project-timesheets" id="1642">
-        <title>Timesheets</title>
-      </bookmark>
-      <folder id="1556">
-        <title>Kontakte</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/contacts" id="1565">
-          <title>Kontakte</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="1566">
-          <title>Kunden</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-58" id="160">
-          <title>Stichwörter</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-59" id="161">
-          <title>Branchen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-60" id="162">
-          <title>Banken</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-61" id="163">
-          <title>Bankkonten</title>
-        </bookmark>
-      </folder>
-      <folder id="1557">
-        <title>Verkauf</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/orders" id="165">
-          <title>Aufträge</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/sales" id="164">
-          <title>Angebote</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/customers" id="1631">
-          <title>Kunden</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-457" id="167">
-          <title>Abzurechnende Aufträge</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/products" id="168">
-          <title>Produkte</title>
-        </bookmark>
-        <bookmark href="https://vmcon-test-35293095.dev.odoo.com/odoo/product-tags" id="425">
-          <title>Produkt-Stichwörter</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/pricelists" id="426">
-          <title>Preislisten</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-484" id="427">
-          <title>Angebotsvorlagen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-115" id="1544">
-          <title>Meine Aktivitäten</title>
-        </bookmark>
-      </folder>
-      <folder id="1599">
-        <title>Projekte</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/all-tasks?debug=1" id="1600">
-          <title>Alle Aufgaben</title>
-        </bookmark>
-      </folder>
-      <folder id="1558">
-        <title>Buchhaltung</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/customer-invoices" id="1559">
-          <title>Ausgangsrechnungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/customer-payments" id="1560">
-          <title>Kundenzahlungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/entries" id="1561">
-          <title>Journalbuchungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/aged-receivable" id="1562">
-          <title>Offene Forderungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/vendor-bills" id="1563">
-          <title>Eingangsrechnungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/taxes" id="1564">
-          <title>Steuern</title>
-        </bookmark>
-      </folder>
-      <folder id="431">
-        <title>Einstellungen</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/settings#general_settings" id="447">
-          <title>Einstellungen Allgemein</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/users" id="448">
-          <title>Einstellungen - Benutzer</title>
-        </bookmark>
-      </folder>
-      <folder id="432">
-        <title>Technisch</title>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-99" id="454">
-          <title>E-Mails</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/email-templates" id="455">
-          <title>E-Mail-Vorlagen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-8" id="456">
-          <title>Fensteraktionen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-20" id="457">
-          <title>Modelle</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-21" id="458">
-          <title>Felder</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/access-rights" id="538">
-          <title>Zugriffsrechte</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/automations" id="539">
-          <title>Automatisierungsregeln</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/crons" id="540">
-          <title>Geplante Aktionen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-133" id="449">
-          <title>Benutzereinstellungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/server-actions" id="1572">
-          <title>Serveraktionen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-96" id="450">
-          <title>Benachrichtigungen</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-130" id="451">
-          <title>Gäste</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-116" id="452">
-          <title>Aktivitätspläne</title>
-        </bookmark>
-        <bookmark href="https://vmcon.odoo.com/odoo/action-97?debug=1" id="1647">
-          <title>Nachrichten</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://vmcon.odoo.com/odoo/settings/96/email-templates" id="428">
-        <title>Konfiguration - E-Mail-Vorlagen</title>
-      </bookmark>
-      <bookmark href="https://vmcon.odoo.com/odoo?debug=1" id="1645">
-        <title>ECHT Startseite</title>
-      </bookmark>
-    </folder>
-    <folder id="78">
-      <title>UDO TEST</title>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31/1849?debug=1" id="1638">
-        <title>external_layout_din5008_account_move</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-37578223.dev.odoo.com/odoo/web?debug=1" id="1625">
-        <title>Entwicklermodus Test</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo" id="1639">
-        <title>Testinstanz</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-31?debug=1" id="1640">
-        <title>Ansichten</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/action-507" id="1637">
-        <title>Projekte</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/all-tasks?view_type=kanban" id="1635">
-        <title>Alle Aufgaben</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/odoo/automations?debug=1" id="1636">
-        <title>Automatisierungsregeln</title>
-      </bookmark>
-      <bookmark href="https://vmcon-test-38655970.dev.odoo.com/web/login?redirect=%2Fodoo%3F" id="1634">
-        <title>Login | My Website</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://www.odoo-austria.at/blog" id="1570">
-      <title>Blog Posts | Default Website</title>
-    </bookmark>
-    <bookmark href="https://www.odoo-community.org/" id="1571">
-      <title>Odoo Community Association Home page</title>
-    </bookmark>
-    <bookmark href="https://www.odoo-community.org/list-of-must-have-oca-modules" id="1579">
-      <title>List of &quot;must have&quot; Base OCA modules | The Odoo Communtiy Association</title>
     </bookmark>
   </folder>
   <folder id="23">
