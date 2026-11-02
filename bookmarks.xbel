@@ -8,6 +8,21 @@
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
+  <folder id="18">
+    <title>SPK</title>
+    <bookmark href="https://login.sparkasse.at/sts/oauth/authorize?response_type=token&amp;client_id=georgeclient&amp;state=" id="43">
+      <title>SPK alle</title>
+    </bookmark>
+    <bookmark href="https://login.sparkasse.at/sts/oauth/authorize?client_id=INTGB5J7&amp;response_type=token&amp;redirect_uri=https%3A%2F%2Fgeorge-business.sparkasse.at" id="44">
+      <title>SPK Business</title>
+    </bookmark>
+    <bookmark href="https://george-business.sparkasse.at/business.html?demoMode=false#/payments/payment-orders/orders-history?lastUpdate=1684214745321" id="45">
+      <title>SPK Aufträge</title>
+    </bookmark>
+    <bookmark href="https://george-business.sparkasse.at/business.html?demoMode=false#/payments/payment-orders/data-carrier/import" id="46">
+      <title>SPK Datenimport</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://vmcon-test-40665698.dev.odoo.com/odoo?debug=1" id="1651">
     <title>TestOdoo</title>
   </bookmark>
@@ -282,21 +297,6 @@
     </bookmark>
     <bookmark href="https://www.odoo-community.org/list-of-must-have-oca-modules" id="1579">
       <title>List of &quot;must have&quot; Base OCA modules | The Odoo Communtiy Association</title>
-    </bookmark>
-  </folder>
-  <folder id="18">
-    <title>SPK</title>
-    <bookmark href="https://login.sparkasse.at/sts/oauth/authorize?response_type=token&amp;client_id=georgeclient&amp;state=" id="43">
-      <title>SPK alle</title>
-    </bookmark>
-    <bookmark href="https://login.sparkasse.at/sts/oauth/authorize?client_id=INTGB5J7&amp;response_type=token&amp;redirect_uri=https%3A%2F%2Fgeorge-business.sparkasse.at" id="44">
-      <title>SPK Business</title>
-    </bookmark>
-    <bookmark href="https://george-business.sparkasse.at/business.html?demoMode=false#/payments/payment-orders/orders-history?lastUpdate=1684214745321" id="45">
-      <title>SPK Aufträge</title>
-    </bookmark>
-    <bookmark href="https://george-business.sparkasse.at/business.html?demoMode=false#/payments/payment-orders/data-carrier/import" id="46">
-      <title>SPK Datenimport</title>
     </bookmark>
   </folder>
   <folder id="19">
