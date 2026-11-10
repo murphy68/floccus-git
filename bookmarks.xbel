@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1657: for Floccus bookmark sync browser extension -->
+<!--- highestId :1658: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1407,6 +1407,9 @@
     </bookmark>
     <bookmark href="https://winfuture.de/special/windows11/faq/Windows-11-10-So-einfach-aktiviert-ihr-den-nuetzlichen-God-Mode-250.html" id="845">
       <title>Windows 11 &amp; 10: So einfach aktiviert ihr den nützlichen &quot;God Mode&quot;</title>
+    </bookmark>
+    <bookmark href="https://portal.rooms.microsoft.com/1n14e5/settings/general" id="1658">
+      <title>Settings - Microsoft Teams Rooms Pro Management</title>
     </bookmark>
   </folder>
   <folder id="23">
