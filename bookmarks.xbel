@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1665: for Floccus bookmark sync browser extension -->
+<!--- highestId :1666: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1287,6 +1287,9 @@
     </folder>
     <folder id="600">
       <title>MS Security</title>
+      <bookmark href="https://security.microsoft.com/casesv2?viewId=incident-cases&amp;tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="1666">
+        <title>Fälle – Microsoft Defender</title>
+      </bookmark>
       <bookmark href="https://security.microsoft.com/alerts/fa47c06846-c2c9-acba-1000-08ddbe2e6f35?tid=cf1d6fa3-b8cf-4364-b2b6-95c36ca7f955" id="616">
         <title>Alert – Microsoft Defender</title>
       </bookmark>
