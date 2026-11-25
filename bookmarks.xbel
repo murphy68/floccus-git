@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1675: for Floccus bookmark sync browser extension -->
+<!--- highestId :1676: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -4186,6 +4186,9 @@
   </bookmark>
   <bookmark href="https://www.bankaustria.at/index.jsp" id="1540">
     <title>UniCredit Bank Austria - Wir erledigen Ihre Bankgeschäfte</title>
+  </bookmark>
+  <bookmark href="https://orf.at/" id="1676">
+    <title>news.ORF.at</title>
   </bookmark>
 </folder>
 <folder id="3">
